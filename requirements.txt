@@ -1,0 +1,5 @@
+numpy==2.1.3
+matplotlib>=3.8
+pandas>=2.0
+# Install PyTorch separately with the wheel suitable for your platform/GPU;
+# PA2's specified environment is Python 3.10 + torch 2.11.0 + CUDA 12.8.

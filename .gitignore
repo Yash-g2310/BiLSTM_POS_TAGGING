@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Model/checkpoint and generated run artefacts
+*.pt
+*.pth
+best_config.json
+dev.out
+results/
+results_*/
+tmp_smoke/
+
+# Course data and handout; don't publish unless permitted by course rules
+/data/*.tags
+/data/*.sents
+/data/*.out
+/docs/PA2.pdf
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
