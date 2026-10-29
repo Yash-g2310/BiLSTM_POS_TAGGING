@@ -1,0 +1,262 @@
+{
+  "status": "PASS",
+  "device": "cuda",
+  "data_sentences": 60,
+  "variants_tested": 23,
+  "elapsed_seconds": 7.569073897000635,
+  "results": [
+    {
+      "variant": "word_only",
+      "stage": "ablation",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 2380938,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.16573033707865167,
+      "seconds": 1.1344549655914307,
+      "status": "PASS"
+    },
+    {
+      "variant": "word_plus_shape",
+      "stage": "ablation",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 2375888,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.21067415730337077,
+      "seconds": 0.10053205490112305,
+      "status": "PASS"
+    },
+    {
+      "variant": "word_char_cnn",
+      "stage": "ablation",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 2366008,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.13202247191011235,
+      "seconds": 0.6257503032684326,
+      "status": "PASS"
+    },
+    {
+      "variant": "full_char_cnn_bilstm",
+      "stage": "ablation",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 2360958,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.16573033707865167,
+      "seconds": 0.11262178421020508,
+      "status": "PASS"
+    },
+    {
+      "variant": "full_char_lstm_bilstm",
+      "stage": "ablation",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 2364438,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.1853932584269663,
+      "seconds": 0.1432960033416748,
+      "status": "PASS"
+    },
+    {
+      "variant": "case_sensitive_lookup",
+      "stage": "ablation",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 2362108,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.19101123595505617,
+      "seconds": 0.11725068092346191,
+      "status": "PASS"
+    },
+    {
+      "variant": "forward_only",
+      "stage": "ablation",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 934014,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.12078651685393259,
+      "seconds": 0.0906674861907959,
+      "status": "PASS"
+    },
+    {
+      "variant": "full_char_cnn_crf",
+      "stage": "decoder",
+      "input_dim": 100,
+      "decoder": "crf",
+      "params": 2362478,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.16853932584269662,
+      "seconds": 0.3721892833709717,
+      "status": "PASS"
+    },
+    {
+      "variant": "w80_c10_s10",
+      "stage": "dims",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 2373318,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.19662921348314608,
+      "seconds": 0.22861552238464355,
+      "status": "PASS"
+    },
+    {
+      "variant": "paper_spec_80_20_192",
+      "stage": "dims",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 1397354,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.1797752808988764,
+      "seconds": 0.14718985557556152,
+      "status": "PASS"
+    },
+    {
+      "variant": "w60_c30_s10",
+      "stage": "dims",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 2365078,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.12640449438202248,
+      "seconds": 0.14220166206359863,
+      "status": "PASS"
+    },
+    {
+      "variant": "w40_c50_s10",
+      "stage": "dims",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 2356838,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.13202247191011235,
+      "seconds": 0.14205503463745117,
+      "status": "PASS"
+    },
+    {
+      "variant": "hidden128",
+      "stage": "size",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 671870,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.12078651685393259,
+      "seconds": 0.10789728164672852,
+      "status": "PASS"
+    },
+    {
+      "variant": "hidden384",
+      "stage": "size",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 5098622,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.15730337078651685,
+      "seconds": 0.1329050064086914,
+      "status": "PASS"
+    },
+    {
+      "variant": "one_lstm_layer",
+      "stage": "size",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 783998,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.21348314606741572,
+      "seconds": 0.07198262214660645,
+      "status": "PASS"
+    },
+    {
+      "variant": "dropout_low",
+      "stage": "reg",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 2360958,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.1853932584269663,
+      "seconds": 0.10814332962036133,
+      "status": "PASS"
+    },
+    {
+      "variant": "dropout_high",
+      "stage": "reg",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 2360958,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.13764044943820225,
+      "seconds": 0.10317444801330566,
+      "status": "PASS"
+    },
+    {
+      "variant": "no_word_dropout",
+      "stage": "reg",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 2360958,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.1348314606741573,
+      "seconds": 0.10188436508178711,
+      "status": "PASS"
+    },
+    {
+      "variant": "word_dropout_half",
+      "stage": "reg",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 2360958,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.15168539325842698,
+      "seconds": 0.10003399848937988,
+      "status": "PASS"
+    },
+    {
+      "variant": "lr_1e3",
+      "stage": "opt",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 2360958,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.12078651685393259,
+      "seconds": 0.11032414436340332,
+      "status": "PASS"
+    },
+    {
+      "variant": "lr_3e3",
+      "stage": "opt",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 2360958,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.14887640449438203,
+      "seconds": 0.12104129791259766,
+      "status": "PASS"
+    },
+    {
+      "variant": "batch128",
+      "stage": "opt",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 2360958,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.16573033707865167,
+      "seconds": 0.11365604400634766,
+      "status": "PASS"
+    },
+    {
+      "variant": "label_smoothing_01",
+      "stage": "reg",
+      "input_dim": 100,
+      "decoder": "softmax",
+      "params": 2360958,
+      "epochs_run": 1,
+      "accuracy_on_smoke_validation_not_for_reporting": 0.17134831460674158,
+      "seconds": 0.11589932441711426,
+      "status": "PASS"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pipeline_total_seconds": 3663.702044656,
+  "experiment_variant_count": 23,
+  "best_variant": "label_smoothing_01",
+  "best_validation_accuracy_pct": 97.58468,
+  "final_fit_seconds": 132.565434217453,
+  "run_tagger_wall_seconds": 5.35741603200222,
+  "final_fit_epochs": 16,
+  "final_parameters": 4067274,
+  "device": "cuda",
+  "model_file": "/home/yash_gupta/projects/nlp_pos_tagger/POS_Tagger_PA2_Complete/tagger_model.pt",
+  "dev_output_file": "/home/yash_gupta/projects/nlp_pos_tagger/POS_Tagger_PA2_Complete/dev.out",
+  "figures": [
+    "figures/architecture.png",
+    "figures/architecture.svg",
+    "figures/experiment_accuracy.png",
+    "figures/overall_vs_oov.png",
+    "figures/learning_curves.png",
+    "figures/per_tag_error_rates.png",
+    "figures/tag_confusions.png",
+    "figures/length_bucket_accuracy.png",
+    "figures/training_tag_distribution.png",
+    "figures/sentence_length_distribution.png"
+  ],
+  "report_draft": "/home/yash_gupta/projects/nlp_pos_tagger/POS_Tagger_PA2_Complete/results/report_draft.md",
+  "acl_tex_draft": "/home/yash_gupta/projects/nlp_pos_tagger/POS_Tagger_PA2_Complete/results/report_draft.tex"
+}

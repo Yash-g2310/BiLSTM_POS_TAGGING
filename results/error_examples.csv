@@ -1,0 +1,1078 @@
+sentence_id,token_id,word,gold_tag,predicted_tag,correct,surface_oov,normalized_oov,model_lookup_oov,context
+1,19,kind,JJ,NN,0,0,0,0,Bush mode : kind and gentle .
+1,21,gentle,JJ,NN,0,0,0,0,: kind and gentle .
+3,8,chief,NN,JJ,0,0,0,0,62-year-old chairman and chief executive officer of
+5,1,So,IN,RB,0,0,0,0,"So far , Mr."
+7,15,all,DT,PDT,0,0,0,0,"war , with all that implies ."
+8,27,fall,NN,VB,0,0,0,0,seeing the company fall into the arms
+13,43,on,IN,RB,0,0,0,0,"the company early on , says Mr."
+17,7,in,RP,IN,0,0,0,0,Mr. Hahn called in state police to
+18,2,impressed,VBN,VBD,0,0,0,0,That impressed Robert B. Pamplin
+18,9,chief,NN,JJ,0,0,0,0,", Georgia-Pacific 's chief executive at the"
+18,10,executive,JJ,NN,0,0,0,0,Georgia-Pacific 's chief executive at the time
+20,22,on,IN,RP,0,0,0,0,he possessed early on .
+23,7,physics,NN,NNS,0,0,0,0,doctorate in nuclear physics from the Massachusetts
+27,3,as,RB,IN,0,0,0,0,Taking over as chief executive officer
+27,4,chief,NN,JJ,0,0,0,0,Taking over as chief executive officer in
+27,5,executive,JJ,NN,0,0,0,0,over as chief executive officer in 1983
+30,18,while,NN,IN,0,0,0,0,of the company while refocusing building products
+30,19,refocusing,NN,VBG,0,0,0,0,the company while refocusing building products on
+35,16,best,JJS,RB,0,0,0,0,a company knows best .
+36,11,all,DT,RB,0,0,0,0,"diversified is n't all that impressive ,"
+36,12,that,DT,RB,0,0,0,0,"is n't all that impressive , ''"
+38,25,flows,VBZ,NNS,0,0,0,0,and strong cash flows .
+40,7,off,IN,RP,0,0,0,0,Hahn carry it off ?
+45,3,approved,VBD,VBN,0,0,0,0,The conference approved at least $
+50,17,planning,VBG,NN,0,0,0,0,"for international population planning activities , an"
+54,18,Central,NNP,JJ,0,0,0,0,", but the Central American country would"
+54,19,American,NNP,JJ,0,0,0,0,but the Central American country would have
+55,41,much,JJ,RB,0,0,0,0,pound runs as much as a nickel
+56,46,Barbados,NNP,NNPS,0,1,1,1,as Jamaica and Barbados .
+57,7,Californian,NN,NNP,0,1,1,1,", a conservative Californian , added a"
+57,27,further,RB,RBR,0,0,0,0,broadened the list further by including all
+57,42,Philippines,NNP,NNPS,0,0,0,0,well as the Philippines - backed by
+63,12,Relations,NNP,NNPS,0,0,0,0,"the Senate Foreign Relations Committee , appropriators"
+64,5,Safety,NNP,NN,0,0,0,0,Takes Backseat To Safety on Bridges
+64,7,Bridges,NNPS,NNS,0,0,0,0,To Safety on Bridges
+67,19,through,IN,RB,0,0,0,0,vehicles from crashing through .
+72,22,one,CD,NN,0,0,0,0,bridge '' and one that blocks the
+72,31,below,IN,RB,0,0,0,0,a new park below .
+73,16,cast-iron,JJ,NN,0,0,0,0,"replaced , the cast-iron medallions from its"
+73,17,medallions,NNS,VBZ,0,1,1,1,", the cast-iron medallions from its railings"
+75,7,upset,VBN,VBD,0,0,0,0,", Ohio , upset over changes to"
+75,8,over,IN,RP,0,0,0,0,"Ohio , upset over changes to a"
+75,19,bottom,NN,JJ,0,0,0,0,deal : The bottom half of the
+75,26,type,NN,JJ,0,0,0,0,"railing will be type F , while"
+75,27,F,NN,NNP,0,0,0,0,"will be type F , while the"
+76,27,crash,JJ,NN,0,0,0,0,could install a crash barrier between the
+78,1,Drink,NN,VB,0,1,0,0,Drink Carrier Competes With
+79,1,PORTING,VBG,NN,0,1,1,1,PORTING POTABLES just got
+80,11,cardboard,NN,JJ,0,1,1,1,meant to replace cardboard trays at concession
+80,22,plastic,JJ,NN,0,0,0,0,", resembles the plastic loops used on"
+84,6,costs,VBZ,NNS,0,0,0,0,claims the carrier costs less and takes
+84,7,less,JJR,RBR,0,0,0,0,the carrier costs less and takes up
+90,1,Spirit,NN,NNP,0,0,0,0,Spirit of Perestroika Touches
+90,3,Perestroika,FW,NNP,0,1,0,0,Spirit of Perestroika Touches Design World
+90,4,Touches,VBZ,NNPS,0,1,0,0,Spirit of Perestroika Touches Design World
+90,5,Design,NN,NNP,0,0,0,0,of Perestroika Touches Design World
+90,6,World,NN,NNP,0,0,0,0,Perestroika Touches Design World
+91,2,EXCHANGE,NN,NNP,0,1,0,0,AN EXCHANGE of U.S. and
+92,8,opened,VBD,VBN,0,0,0,0,design and architecture opened in September in
+95,12,all,DT,RB,0,0,0,0,", sees benefits all around ."
+95,13,around,IN,RB,0,0,0,0,sees benefits all around .
+99,28,one,CD,NN,0,0,0,0,is one good one ? ' ''
+102,5,BIRDS,NNS,NNPS,0,1,0,0,'S A TWO BIRDS with one stone
+103,5,overcrowding,NN,VBG,0,0,0,0,would ease jail overcrowding while preserving historic
+105,6,1920s,CD,NNS,0,0,0,0,built in the 1920s and '30s have
+105,8,'30s,CD,NNS,0,0,0,0,the 1920s and '30s have six-inch concrete
+106,13,yet,CC,RB,0,0,0,0,"public muster , yet close enough to"
+107,9,worth,IN,JJ,0,0,0,0,grain elevators are worth preserving for aesthetic
+107,18,compared,VBD,VBN,0,0,0,0,one famed architect compared them to the
+111,33,workplace,NN,JJ,0,0,0,0,proposed for alleged workplace violations by an
+112,23,Hills,NNP,NNPS,0,0,0,0,"company 's Fairless Hills , Pa. ,"
+112,30,that,DT,WDT,0,0,0,0,steel mill ; that was a record
+113,11,crane-safety,NN,JJ,0,1,1,1,"federal electrical , crane-safety , record-keeping and"
+114,18,alleged,VBN,JJ,0,0,0,0,more than 200 alleged violations of electrical-safety
+114,21,electrical-safety,JJ,NN,0,1,1,1,alleged violations of electrical-safety and other requirements
+115,46,needed,VBN,VBD,0,0,0,0,and repair programs needed to remove those
+120,19,fine,NN,JJ,0,0,0,0,the penalty or fine .
+121,2,Once,IN,RB,0,0,0,0,"`` Once we do ,"
+126,4,stiffer,JJR,NN,0,0,0,0,"He has promised stiffer fines , though"
+127,18,manpower,NN,VB,0,0,0,0,necessary resources and manpower to removing hazards
+128,4,working,NN,VBG,0,0,0,0,USX has 15 working days to contest
+129,9,proposed,VBN,JJ,0,0,0,0,OSHA 's largest proposed fine for one
+129,29,meatpacking,NN,VBG,0,1,1,1,"Co. , a meatpacking subsidiary of United"
+129,33,Brands,NNP,NNPS,0,0,0,0,"subsidiary of United Brands Co. , Cincinnati"
+131,4,editing,NN,VBG,0,1,1,1,"Due to an editing error , a"
+133,6,The,NNP,DT,0,0,0,0,6 editorial `` The Ill Homeless ''
+133,12,research,NN,VB,0,0,0,0,'' referred to research by us and
+136,5,most,JJS,RBS,0,0,0,0,is clear that most mentally ill people
+141,4,only,JJ,RB,0,0,0,0,"Homeless people not only lack safety ,"
+142,21,homelessness,NN,VB,0,1,1,1,"a person to homelessness , others may"
+143,16,cause,NN,VB,0,0,0,0,as to `` cause '' or ``
+151,11,drop-in,JJ,NN,0,1,1,1,a privately funded drop-in center for the
+152,18,more,RBR,JJR,0,0,0,0,with reality any more ; without psychiatric
+155,4,what,WDT,WP,0,0,0,0,"Once there , what ways of escape"
+161,50,that,WDT,IN,0,0,0,0,from self-serving groups that `` know a
+162,19,in,IN,RB,0,0,0,0,", and advertise in , your paper"
+164,11,underwent,VBD,VBP,0,0,0,0,"Baltimore homeless who underwent psychiatric examinations ,"
+164,18,conduct,VB,VBP,0,0,0,0,I suggest you conduct your own survey
+165,19,out,IN,RP,0,0,0,0,and put them out on the streets
+168,2,COMMUNICATIONS,NNP,NNPS,0,0,0,0,ROGERS COMMUNICATIONS Inc. said it
+168,31,preferred,VBN,JJ,0,0,0,0,placement of perpetual preferred shares .
+170,1,Rogers,NNP,NNS,0,0,0,0,Rogers said the shares
+171,9,telecommunications,NNS,NN,0,0,0,0,cable television and telecommunications concern said the
+175,28,300-113,CD,JJ,0,1,0,0,", but the 300-113 vote suggests that"
+180,12,Works,NNPS,NNP,0,0,0,0,the House Public Works and Transportation Committee
+181,21,that,IN,DT,0,0,0,0,a carrier so that safety would be
+181,63,overriding,VBG,JJ,0,0,0,0,assets had an overriding public benefit .
+181,64,public,NN,JJ,0,0,0,0,had an overriding public benefit .
+182,27,require,VB,VBP,0,0,0,0,"criteria , also require the department to"
+186,4,called,VBN,VBD,0,0,0,0,"The provision , called the `` two-time-losers"
+186,7,two-time-losers,JJ,NNS,0,1,1,1,called the `` two-time-losers '' amendment by
+194,9,hither,RB,IN,0,1,1,1,right to print hither what the Voice
+194,16,yon,RB,VB,0,1,1,1,was booming to yon .
+200,1,Government,NNP,NN,0,0,0,0,"Government press releases ,"
+201,1,Propaganda,NN,NNP,0,1,0,0,Propaganda is just information
+202,4,viewing,VBG,NN,0,0,0,0,The restrictions on viewing and dissemination of
+209,9,read,VB,VBD,0,0,0,0,reporters and researchers read texts of VOA
+209,18,headquarters,NNS,NN,0,0,0,0,"only at VOA headquarters in Washington ,"
+209,27,copying,VBG,NN,0,0,0,0,barred them from copying texts .
+211,3,that,DT,RB,0,0,0,0,How 's that again ?
+212,13,either,DT,CC,0,0,0,0,but not copy either manually or by
+213,5,in,RP,IN,0,0,0,0,if I tune in my short-wave radio
+216,5,ago,IN,RB,0,0,0,0,"couple of weeks ago , I lost"
+220,5,happened,VBD,VBN,0,0,0,0,a funny thing happened on the way
+221,21,on,IN,RP,0,0,0,0,get my hands on .
+224,15,found,VBN,VBD,0,0,0,0,"case , officially found `` that Congress"
+226,21,notwithstanding,IN,VBG,0,0,0,0,"the materials , notwithstanding the statutory designations"
+228,36,one,NN,PRP,0,0,0,0,"notes , no one will check to"
+228,41,what,WDT,WP,0,0,0,0,check to determine what notes a person
+228,42,notes,NNS,VBZ,0,0,0,0,to determine what notes a person has
+229,13,Voice,NNP,NN,0,0,0,0,"right to print Voice material , which"
+233,1,So,IN,RB,0,0,0,0,So now the situation
+235,18,longer,JJR,RBR,0,0,0,0,-- but no longer surreptitiously -- copy
+237,15,stuff,NN,VBP,0,0,0,0,that sends you stuff whether you want
+241,15,Voice,NNP,NN,0,0,0,0,of 1948 says Voice material shall be
+244,3,have,VBD,VBP,0,0,0,0,`` You have ... raised important
+244,49,ago,IN,RB,0,0,0,0,couple of years ago .
+252,6,out,IN,RP,0,0,0,0,McGovern was forced out as Campbell Soup
+252,14,chief,NN,JJ,0,0,0,0,"'s president and chief executive officer ,"
+252,25,that,WDT,IN,0,0,0,0,of the power that Dorrance family members
+253,24,chief,NN,JJ,0,0,0,0,"47 , the chief financial officer ,"
+254,13,food-industry,NN,JJ,0,1,1,1,"candidates , including food-industry executives with considerable"
+259,8,more,JJR,RBR,0,0,0,0,think a little more like Wall Street
+263,8,third,JJ,NN,0,0,0,0,is a distant third in the U.K.
+263,12,frozen,VBN,JJ,0,0,0,0,"in the U.K. frozen foods market ,"
+266,3,neither,DT,CC,0,0,0,0,"However , neither Mr. Baum nor"
+266,10,much,JJ,RB,0,0,0,0,Mr. Harper has much international experience .
+268,8,manufacturing,VBG,NN,0,0,0,0,veteran of several manufacturing companies who joined
+269,19,chief,NN,JJ,0,0,0,0,company 's next chief executive .
+273,11,pretax,NN,JJ,0,0,0,0,$ 343 million pretax charge against fiscal
+273,22,restructuring,VBG,NN,0,0,0,0,announced a world-wide restructuring plan .
+275,25,impatient,NN,JJ,0,0,0,0,the board became impatient .
+277,4,prepared,VBN,JJ,0,0,0,0,The company 's prepared statement quoted him
+277,17,along,IN,RB,0,0,0,0,succession is well along and I 've
+285,14,long,JJ,RB,0,0,0,0,some plants as long ago as early
+290,19,chief,NN,JJ,0,0,0,0,naming a new chief executive .
+295,4,got,VBN,VBD,0,0,0,0,`` You 've got two champions sitting
+295,8,right,JJ,RB,0,0,0,0,"two champions sitting right before you ,"
+298,9,below,IN,RB,0,0,0,0,annual interest rates below are a guide
+299,1,PRIME,NNP,JJ,0,0,0,0,PRIME RATE : 10
+299,2,RATE,NNP,NN,0,0,0,0,PRIME RATE : 10 1/2
+300,2,base,NN,JJ,0,0,0,0,The base rate on corporate
+301,1,FEDERAL,NNP,JJ,0,0,0,0,FEDERAL FUNDS : 9
+301,2,FUNDS,NNPS,NNS,0,0,0,0,FEDERAL FUNDS : 9 1/2
+301,18,closing,JJ,NN,0,0,0,0,"3/4 % near closing bid , 9"
+301,23,offered,VBD,VBN,0,0,0,0,", 9 % offered ."
+304,1,DISCOUNT,NNP,NN,0,0,0,0,DISCOUNT RATE : 7
+304,2,RATE,NNP,NN,0,0,0,0,DISCOUNT RATE : 7 %
+306,1,CALL,NNP,JJ,0,0,0,0,CALL MONEY : 9
+306,2,MONEY,NNP,NN,0,0,0,0,CALL MONEY : 9 3/4
+311,1,Average,JJ,NN,0,0,0,0,Average of top rates
+316,2,LATE,RB,JJ,0,0,0,0,LONDON LATE EURODOLLARS : 8
+317,2,INTERBANK,NN,NNP,0,0,0,0,LONDON INTERBANK OFFERED RATES (
+318,5,offered,VBD,VBN,0,0,0,0,average of interbank offered rates for dollar
+319,1,FOREIGN,NNP,JJ,0,0,0,0,FOREIGN PRIME RATES :
+319,2,PRIME,NNP,JJ,0,0,0,0,FOREIGN PRIME RATES : Canada
+319,3,RATES,NNPS,NNS,0,0,0,0,FOREIGN PRIME RATES : Canada 13.50
+320,9,lending,VBG,NN,0,0,0,0,directly comparable ; lending practices vary widely
+320,11,vary,VB,VBP,0,0,0,0,; lending practices vary widely by location
+321,2,BILLS,NNPS,NNS,0,0,0,0,TREASURY BILLS : Results of
+323,15,capped,JJ,VBD,0,0,0,0,2 % rate capped one-year adjustable rate
+325,40,capped,JJ,VBD,0,0,0,0,", 6/2 rate capped one-year adjustable rate"
+334,4,go,VBP,VB,0,0,0,0,Sometimes you just go with your gut
+336,25,publishing,VBG,NN,0,0,0,0,the largest trade publishing house in the
+342,14,in,RP,IN,0,0,0,0,to be turning in disappointing results .
+348,10,in,IN,RP,0,0,0,0,Newhouse could bring in a powerhouse businessman
+348,41,A.,NNP,NN,0,0,0,0,House 's Alfred A. Knopf to run
+349,11,recruited,VBN,VBD,0,0,0,0,"Joni Evans , recruited two years ago"
+349,14,ago,IN,RB,0,0,0,0,recruited two years ago to be publisher
+349,35,A.,NNP,NN,0,0,0,0,the prestigious Alfred A. Knopf unit .
+350,5,her,PRP,PRP$,0,0,0,0,"Ms. Evans took her job , several"
+350,25,wish,NN,VB,0,0,0,0,she did n't wish to be a
+353,12,executive,JJ,NN,0,0,0,0,could intimidate the executive branch by uttering
+356,2,species,NN,NNS,0,0,0,0,This species of congressional action
+357,8,Money,NN,NNP,0,0,0,0,that `` No Money shall be drawn
+357,18,Consequence,NN,NNP,0,1,0,0,", but in Consequence of Appropriations made"
+357,20,Appropriations,NNS,NNPS,0,0,0,0,in Consequence of Appropriations made by Law
+358,2,prevailing,VBG,JJ,0,0,0,0,The prevailing interpretation of the
+360,6,understand,VBP,NN,0,0,0,0,"of congressional power understand , a ``"
+364,17,resources,NNS,VBZ,0,0,0,0,the independence and resources to perform the
+364,21,executive,NN,JJ,0,0,0,0,to perform the executive functions that the
+365,9,clause,NN,VBP,0,0,0,0,if the appropriations clause ( technically a
+365,33,executive,NN,JJ,0,0,0,0,", making the executive consist of the"
+365,34,consist,VBP,NN,0,0,0,0,making the executive consist of the president
+366,13,bill,NN,VBP,0,0,0,0,", the appropriations bill for the executive"
+367,47,void,JJ,VB,0,0,0,0,", and thus void and severable ."
+367,49,severable,JJ,VB,0,1,1,1,thus void and severable .
+369,25,appoint,VB,NN,0,0,0,0,"the Senate '' appoint , ambassadors ,"
+370,8,recess,NN,JJ,0,1,1,1,"president to make recess appointments , without"
+370,20,Power,NN,NNP,0,0,0,0,President shall have Power to fill up
+370,31,Recess,NN,NNP,0,1,1,1,happen during the Recess of the Senate
+370,38,Commissions,NNS,NNPS,0,0,0,0,", by granting Commissions which shall expire"
+371,2,Section,NNP,NN,0,0,0,0,Yet Section 605 of the
+371,31,Act,NN,NNP,0,0,0,0,or any other Act shall be paid
+371,63,said,VBN,VBD,0,0,0,0,the nomination of said person . ''
+372,20,recess,NN,JJ,0,1,1,1,power to make recess appointments under Article
+374,25,funding,VBG,NN,0,0,0,0,president being denied funding to pay that
+376,11,muzzling,JJ,VBG,0,1,1,1,number of `` muzzling '' provisions that
+377,1,Muzzling,JJ,VBG,0,1,1,1,"Muzzling provisions , which"
+377,9,blindfold,NN,JJ,0,1,1,1,be called `` blindfold laws '' as
+377,15,prevent,VBP,VB,0,0,0,0,"as well , prevent the executive branch"
+379,24,more,JJR,RBR,0,0,0,0,sense or proposing more market-oriented alternatives to
+381,23,favored,VBN,JJ,0,0,0,0,wasted in some favored program or other
+382,15,better,RBR,RB,0,0,0,0,for fiscal 1990 better illustrates Congress 's
+382,29,executive-office,NN,JJ,0,1,1,1,609 of the executive-office bill : ``
+382,37,made,VBN,VBD,0,0,0,0,of the funds made available pursuant to
+382,45,Act,NN,NNP,0,0,0,0,provisions of this Act shall be used
+390,15,unfunded,JJ,VBN,0,1,1,1,"the executive branch unfunded , the president"
+396,17,limited,VBN,JJ,0,0,0,0,of far more limited applicability .
+397,1,One,CD,PRP,0,0,0,0,One could argue that
+400,15,standing,NN,VBG,0,0,0,0,it can establish standing to sue )
+401,32,thought,VBD,VBN,0,0,0,0,prerogatives the framers thought should be entrusted
+403,8,off,IN,RP,0,0,0,0,be no worse off than it is
+405,24,down,IN,RP,0,0,0,0,appropriations bills lying down .
+407,16,No.,NN,NNP,0,0,0,0,in The Federalist No. 48 of a
+409,5,executive,JJ,NN,0,0,0,0,longer analysis of executive power and the
+409,19,later,JJ,RB,0,0,0,0,Duke Law Journal later this year .
+412,8,in,IN,RP,0,0,0,0,the amount left in farmers ' pockets
+412,20,increased,VBD,VBN,0,0,0,0,cash income -- increased in 33 states
+417,2,less,JJR,RBR,0,0,0,0,"In less parched areas ,"
+417,3,parched,VBN,JJ,0,0,0,0,"In less parched areas , meanwhile"
+418,27,Dakotas,NNPS,NNP,0,1,1,1,Nebraska and the Dakotas .
+420,5,net,NN,JJ,0,0,0,0,year 's record net cash income confirms
+420,21,1980s,CD,NNS,0,0,0,0,of the early 1980s .
+422,18,earlier,JJR,RBR,0,0,0,0,"hitting record peaks earlier this year ,"
+435,18,shut,VBN,VBD,0,0,0,0,"edition today , shut down by its"
+442,2,attempted,VBN,JJ,0,0,0,0,An attempted buy-out led by
+442,11,operating,NN,VBG,0,0,0,0,"McCabe , chief operating officer , never"
+442,35,since,IN,RB,0,0,0,0,had filed through since .
+444,8,newsstand,NN,JJ,0,1,1,1,"Herald , a newsstand paper in a"
+445,5,sprawling,JJ,NN,0,0,0,0,"Angeles is a sprawling , balkanized newspaper"
+447,31,staid,VBN,JJ,0,0,0,0,to the sometimes staid Times .
+448,14,executed,VBN,VBD,0,0,0,0,years but never executed the plan .
+449,34,1980s,CD,NNS,0,0,0,0,company in the 1980s .
+450,8,as,IN,RB,0,0,0,0,the paper alive as long as it
+452,10,Spanish,NNP,JJ,0,0,0,0,apartment in the Spanish Renaissance-style building .
+454,9,bygone,JJ,NN,0,1,1,1,"survivor from a bygone age , ''"
+456,29,half,DT,NN,0,0,0,0,cut circulation in half .
+458,13,editorial,NN,JJ,0,0,0,0,who brightened the editorial product considerably .
+459,18,though,IN,RB,0,0,0,0,"product , and though in recent years"
+459,27,along,IN,RB,0,0,0,0,had been limping along on limited resources
+459,29,limited,VBN,JJ,0,0,0,0,"limping along on limited resources , its"
+462,12,Newspapers,NNP,NNPS,0,0,0,0,"manager of Hearst Newspapers , stood up"
+465,19,recruiting,VBG,NN,0,0,0,0,across the street recruiting .
+467,6,so,IN,RB,0,0,0,0,'ve never seen so many people crying
+468,3,Long,JJ,NNP,0,0,0,0,"`` So Long , L.A. ''"
+469,30,ago,IN,RB,0,0,0,0,away several years ago but who returned
+471,1,Outside,JJ,RB,0,0,0,0,"Outside , a young"
+471,14,headlined,VBN,VBD,0,1,1,1,an extra edition headlined `` Herald Examiner
+471,18,Closes,VBZ,NNP,0,1,0,0,`` Herald Examiner Closes '' refused to
+475,13,working,JJ,VBG,0,0,0,0,to obtain additional working capital from its
+475,18,secured,VBN,JJ,0,0,0,0,from its senior secured lenders and other
+478,10,do,VB,VBP,0,0,0,0,"a Buick , do n't leave home"
+480,9,beleaguered,VBN,JJ,0,0,0,0,Motors Corp. 's beleaguered Buick division are
+481,19,down,IN,JJ,0,0,0,0,part of their down payments on the
+485,6,upscale,NN,JJ,0,0,0,0,also represents the upscale image `` we
+486,25,upscale,NN,JJ,0,0,0,0,a product for upscale professionals .
+487,14,earlier,JJR,RBR,0,0,0,0,"with a year earlier , though industry"
+489,29,much,RB,JJ,0,0,0,0,expects to get much of the future
+491,7,executive,JJ,NN,0,0,0,0,"an American Express executive vice president ,"
+494,25,down,NN,JJ,0,0,0,0,n't put their down payment on a
+496,17,so,IN,RB,0,0,0,0,"marketers , '' so `` by joining"
+498,10,cars,NNS,VBZ,0,0,0,0,a mailing which cars they would like
+498,25,in,RP,IN,0,0,0,0,", Buick came in fourth among U.S."
+498,33,top,NN,JJ,0,0,0,0,and in the top 10 of all
+499,16,half,DT,NN,0,0,0,0,", and over half have the green"
+500,4,card-member,NN,JJ,0,1,1,1,GMAC screened the card-member list for holders
+502,16,advertised,VBN,JJ,0,0,0,0,"off GMAC 's advertised finance rates ,"
+503,29,tie-in,NN,JJ,0,0,0,0,plans for a tie-in similar to the
+503,33,American,NNP,JJ,0,0,0,0,similar to the American Express-Buick link .
+508,20,stereo,NN,JJ,0,0,0,0,clock or a stereo videocassette recorder .
+509,12,sweepstakes,NN,NNS,0,0,0,0,eligible for a sweepstakes with Buick cars
+512,4,ago,IN,RB,0,0,0,0,"A few years ago , the company"
+516,22,set,VB,VBN,0,0,0,0,be upheld and set a precedent for
+518,7,gilt,JJ,NN,0,0,0,0,"the ruling , gilt futures swiftly plunged"
+520,10,in,IN,RP,0,0,0,0,to have engaged in over 600 deals
+520,26,lost,VBD,VBN,0,0,0,0,"billion ) , lost millions of pounds"
+520,31,soured,JJ,VBN,0,0,0,0,of pounds from soured swap deals .
+523,5,obligated,VBD,VBN,0,0,0,0,", an institution obligated to make fixed-rate"
+523,13,swaps,NNS,VBZ,0,0,0,0,payments on debt swaps the payments with
+526,35,capital-markets,JJ,NNS,0,1,1,1,engage in such capital-markets activities .
+528,15,engaging,VBG,JJ,0,0,0,0,active local authority engaging in such capital-markets
+528,18,capital-markets,JJ,NNS,0,1,1,1,"engaging in such capital-markets transactions , the"
+532,22,work,VB,NN,0,0,0,0,"the illegality ruling work both ways ,"
+540,3,heated,VBN,JJ,0,0,0,0,But the heated fight over program
+540,9,about,IN,RB,0,0,0,0,program trading is about much more than
+543,4,that,IN,DT,0,0,0,0,The evidence indicates that program trading did
+544,37,immense,NN,JJ,0,0,0,0,fund clients with immense pools of money
+547,1,So,IN,RB,0,0,0,0,"So far , Wall"
+552,1,Some,RB,DT,0,0,0,0,"Some , such as"
+552,23,stop,VB,VBP,0,0,0,0,market regulators `` stop the numbers racket
+552,26,racket,NN,VBP,0,1,1,1,stop the numbers racket on Wall Street
+554,13,CEOs,NNS,NNPS,0,1,1,1,is rallying other CEOs to the anti-program
+555,11,Do,VB,VBP,0,0,0,0,single exception : Do n't even compromise
+557,14,down,IN,RP,0,0,0,0,"all this lying down for long ,"
+559,42,out,IN,RP,0,0,0,0,rapidly in and out the market that
+559,45,that,IN,DT,0,0,0,0,out the market that program trading gives
+562,15,respected,VBN,JJ,0,0,0,0,Board 's most respected floor traders and
+568,8,yet,CC,RB,0,0,0,0,"program trading , yet Contel has in"
+568,13,past,NN,JJ,0,0,0,0,has in the past hired pension fund
+568,14,hired,VBD,VBN,0,0,0,0,in the past hired pension fund managers
+568,19,Bankers,NNP,NNPS,0,0,0,0,fund managers like Bankers Trust Co. that
+569,8,premier,JJ,JJR,0,0,0,0,the nation 's premier stock exchange --
+570,2,entrenched,VBN,JJ,0,0,0,0,Its entrenched 49 stock specialists
+571,16,ago,IN,RB,0,0,0,0,-- two weeks ago began trading a
+571,18,trading,NN,VBG,0,0,0,0,weeks ago began trading a new stock
+576,9,shambles,NN,NNS,0,1,1,1,have made a shambles of the nation
+577,26,A.,NNP,NN,0,0,0,0,", '' says A. Brean Murray ,"
+578,16,Neanderthals,NNS,NNPS,0,1,1,1,pickers as the Neanderthals of the industry
+581,15,stock-index,JJ,NN,0,0,0,0,"the concept of stock-index arbitrage , the"
+584,40,sell,VBP,VB,0,0,0,0,is cheaper and sell them in the
+584,50,in,RP,IN,0,0,0,0,; they lock in the difference in
+585,19,occur,VBP,VB,0,0,0,0,"of stock , occur in a matter"
+589,12,frightened,VBN,JJ,0,0,0,0,the investor becomes frightened -- any investor
+589,32,managing,VBG,NN,0,0,0,0,"Larry Zicklin , managing partner at Neuberger"
+594,14,risk,VB,NN,0,0,0,0,"speculators , or risk arbitragers , dumped"
+595,6,in,IN,RB,0,0,0,0,"trades swiftly kicked in , a ``"
+596,8,Travelers,NNPS,NNP,0,0,0,0,head trader at Travelers Investment Management Co.
+596,28,in,IN,RP,0,0,0,0,speculator is taking in the market as
+601,1,Yet,CC,RB,0,0,0,0,Yet many such managers
+602,19,juggle,VB,JJ,0,0,0,0,use computers to juggle portfolios so they
+604,3,about,IN,RB,0,0,0,0,"Today , about $ 200 billion"
+605,8,automated,VBN,JJ,0,0,0,0,of computers and automated trading threatens to
+605,19,stock-specialist,JJ,NN,0,1,1,1,49 Big Board stock-specialist firms .
+614,7,back,RB,RP,0,0,0,0,trying to lure back small investors spooked
+615,30,A.,NNP,NN,0,0,0,0,"'' says Raymond A. Mason , chairman"
+618,4,that,IN,DT,0,0,0,0,Corporate executives resent that their company 's
+625,11,down,IN,RB,0,0,0,0,is to hunker down and let the
+627,19,that,IN,DT,0,0,0,0,anyone has proven that index arbitrage is
+628,12,up,IN,RP,0,0,0,0,traders to give up .
+630,11,20s,CD,NNS,0,0,0,0,millionaires in their 20s and 30s .
+630,13,30s,CD,NNS,0,0,0,0,their 20s and 30s .
+631,15,worth,NN,JJ,0,0,0,0,trade more dollars worth of stock futures
+632,11,out,IN,RP,0,0,0,0,battle to play out .
+644,4,total,NN,JJ,0,0,0,0,"Short of a total ban , some"
+644,26,enjoy,VBP,VB,0,0,0,0,program traders currently enjoy in the marketplace
+645,18,good-faith,NN,JJ,0,1,1,1,or the `` good-faith '' payment of
+646,27,faster,JJR,RBR,0,0,0,0,futures market much faster and potentially more
+649,5,away,RB,RP,0,0,0,0,margins would chase away dozens of smaller
+652,15,uptick,NN,JJ,0,0,0,0,exemption from the uptick rule in certain
+653,5,uptick,NN,JJ,0,0,0,0,reinstatement of the uptick rule for program
+655,2,A.,NNP,NN,0,0,0,0,James A. White contributed to
+656,1,Fundamentalists,NNPS,NNS,0,1,0,0,Fundamentalists Jihad
+657,20,stock-price,NN,JJ,0,0,0,0,trading during wild stock-price swings .
+662,5,index-arbitrage,JJ,NN,0,0,0,0,"profit from an index-arbitrage opportunity , someone"
+665,10,index-arbitrage,JJ,NN,0,0,0,0,"cheapest widget , index-arbitrage traders hope to"
+668,6,index-arbitrage,JJ,NN,0,0,0,0,"managers pursue the index-arbitrage strategy , these"
+671,26,evolve,VB,NN,0,0,0,0,program trading '' evolve into the evil
+672,25,1,LS,CD,0,0,0,0,are implemented : 1 ) reduced volatility
+672,30,2,LS,CD,0,0,0,0,"reduced volatility , 2 ) a long-term"
+672,38,3,LS,CD,0,0,0,0,"focus , and 3 ) a level"
+672,42,playing,NN,VBG,0,0,0,0,) a level playing field for the
+673,7,unneeded,JJ,VBN,0,1,1,1,"these reforms are unneeded , even harmful"
+675,2,index-arbitrage,JJ,NN,0,0,0,0,An index-arbitrage trade is never
+680,23,widget,NN,JJ,0,1,1,1,widgets to make widget prices move .
+681,7,trade,VB,NN,0,0,0,0,large hypothetical seller trade in Chicago instead
+685,23,widget,NN,JJ,0,1,1,1,subtraction to a widget market with finite
+685,26,finite,JJ,NN,0,1,1,1,widget market with finite liquidity .
+686,1,Eliminate,VB,JJ,0,1,0,0,Eliminate arbitrage and liquidity
+688,4,down,IN,RB,0,0,0,0,If slowing things down could reduce volatility
+691,27,welcome,VB,JJ,0,0,0,0,": `` Buyers welcome , sellers please"
+691,30,please,VB,VBP,0,0,0,0,"welcome , sellers please go away !"
+691,31,go,VB,VBP,0,0,0,0,", sellers please go away ! ''"
+694,11,annualized,JJ,VBN,0,0,0,0,measured by the annualized standard deviation of
+697,21,program-trading,NN,JJ,0,0,0,0,evil deeds of program-trading goblins ?
+698,11,program-trading,NN,JJ,0,0,0,0,is labeled `` program-trading volatility '' could
+699,7,whipping,JJ,VBG,0,0,0,0,"trading as a whipping boy , fundamentalist"
+700,6,risk,VB,NN,0,0,0,0,", however , risk bringing some damaging"
+701,16,sound,VB,NN,0,0,0,0,any financial transaction sound ?
+703,4,playing,NN,VBG,0,0,0,0,Getting a level playing field .
+707,22,index-fund,NN,JJ,0,0,0,0,"performance , while index-fund managers slowly amass"
+708,1,Yet,CC,RB,0,0,0,0,Yet our efforts are
+709,22,least,JJS,RBS,0,0,0,0,is the one least able to cope
+710,14,mutual-fund,NN,JJ,0,0,0,0,surely any sizable mutual-fund company could profit
+714,9,harder,JJR,RBR,0,0,0,0,only make things harder on the least
+716,11,more,RBR,JJR,0,0,0,0,arbitrage will become more and more efficient
+718,32,etc.,FW,NN,0,0,0,0,", taxation , etc. ) , the"
+721,22,further,JJR,JJ,0,0,0,0,could result in further cutbacks in a
+725,1,Some,RB,DT,0,0,0,0,"Some Democrats , led"
+729,10,about,IN,RB,0,0,0,0,"70 million , about $ 34 million"
+732,16,more,RBR,JJR,0,0,0,0,15 million or more must notify FTC
+734,42,cuts,NNS,VBZ,0,0,0,0,than the budget cuts .
+737,5,both,PDT,DT,0,0,0,0,antitrust staffs of both the FTC and
+742,1,FALL,NN,NNP,0,1,0,0,FALL BALLOT ISSUES set
+742,2,BALLOT,NN,NNP,0,1,0,0,FALL BALLOT ISSUES set a
+744,20,up,IN,RP,0,0,0,0,a steady ratcheting up in citizen referenda
+744,23,referenda,NN,NNS,0,1,1,1,"up in citizen referenda and initiatives ,"
+744,25,initiatives,VBZ,NNS,0,0,0,0,"citizen referenda and initiatives , '' says"
+745,14,most,JJS,RBS,0,0,0,0,fall represent the most in any odd-year
+745,17,odd-year,JJ,NN,0,1,1,1,most in any odd-year this decade .
+746,10,Cruise,NN,NNP,0,0,0,0,initiative on banning Cruise missiles to a
+752,2,COLLECTING,NN,NNP,0,1,0,0,PHOTOGRAPH COLLECTING gains new stature
+753,5,set,NN,VBN,0,0,0,0,records are being set at auctions this
+754,18,sold,VBD,VBN,0,0,0,0,"Equivalents '' series sold for $ 396,000"
+762,2,much,RB,JJ,0,0,0,0,But much contemporary work is
+763,1,DIALING,VBG,NNP,0,0,0,0,DIALING 900 brings callers
+770,13,merchandising,NN,VBG,0,0,0,0,"right open is merchandising , '' Ms."
+771,1,Much,JJ,RB,0,0,0,0,Much of the 800
+771,20,US,NNP,PRP,0,0,0,0,general manager of US Sprint 's 900
+773,4,canine,JJ,NN,0,1,1,1,Patients who receive canine or feline visitors
+773,23,therapy,NN,VB,0,0,0,0,"more receptive to therapy , says Mary"
+774,3,TRIMMING,VBG,NNP,0,1,0,0,TIRED OF TRIMMING ?
+775,15,string,VB,NN,0,0,0,0,the need to string lights .
+777,1,MEDICINE,NNP,NN,0,0,0,0,MEDICINE TRANSPLANT : Growth
+777,2,TRANSPLANT,NNP,NN,0,1,0,0,MEDICINE TRANSPLANT : Growth of
+780,1,Concerned,VBN,JJ,0,0,0,0,Concerned about shrinking landfills
+781,12,up,IN,RB,0,0,0,0,says business is up 35 % in
+781,17,past,NN,JJ,0,0,0,0,% in the past year .
+784,6,day-care,JJ,NN,0,0,0,0,new customers : day-care centers that previously
+787,19,up,IN,RB,0,0,0,0,where business is up 25 % in
+788,6,cloth,NN,VB,0,0,0,0,the move to cloth : diaper covers
+788,11,Velcro,NN,NNP,0,1,1,1,diaper covers with Velcro fasteners that eliminate
+789,1,BRIEFS,NNPS,NNS,0,0,0,0,BRIEFS :
+792,15,Plains,NNP,NNPS,0,0,0,0,", a White Plains , N.Y. ,"
+792,38,that,DT,WDT,0,0,0,0,"small investor , that 's for sure"
+792,41,sure,RB,JJ,0,0,0,0,that 's for sure . ''
+797,36,out,RP,RB,0,0,0,0,often can figure out earlier where the
+797,37,earlier,JJR,RBR,0,0,0,0,can figure out earlier where the market
+799,6,overvalued,VBD,VBN,0,0,0,0,considers the market overvalued and cites the
+804,3,that,IN,DT,0,0,0,0,She adds that legislation curbing it
+804,11,darned,RB,JJ,0,1,1,1,be `` a darned good idea .
+807,1,A.,NNP,NN,0,0,0,0,"A. Donald Anderson ,"
+808,16,around,IN,RB,0,0,0,0,way to get around '' any attempt
+810,1,Yet,RB,CC,0,0,0,0,Yet he is n't
+818,5,back,JJ,RP,0,0,0,0,ca n't hold back technology . ''
+824,9,savings,NN,NNS,0,0,0,0,in a company savings plan are invested
+827,18,up,IN,RP,0,0,0,0,the market back up after a plunge
+833,7,all,PDT,DT,0,0,0,0,plans to sell all his stocks by
+838,5,all,RB,DT,0,0,0,0,"My stocks are all blue chips ,"
+839,6,down,IN,RB,0,0,0,0,"the market goes down , I figure"
+840,11,high,RB,JJ,0,0,0,0,"goes way sky high , I always"
+845,31,closer,JJR,RBR,0,0,0,0,moving the materials closer to commercial use
+846,20,current,NN,JJ,0,0,0,0,the amount of current that single crystals
+847,13,liquid-nitrogen,NN,JJ,0,1,1,1,"superconductors cooled to liquid-nitrogen temperature , or"
+847,20,Fahrenheit,NN,NNP,0,1,1,1,minus 321 degrees Fahrenheit .
+849,11,bulk,NN,JJ,0,0,0,0,"research on `` bulk '' superconductors ,"
+850,24,current,NN,JJ,0,0,0,0,the amount of current that bulk crystals
+850,26,bulk,NN,JJ,0,0,0,0,of current that bulk crystals could carry
+854,15,cautioned,VBD,VBN,0,0,0,0,"new superconductors , cautioned Robert B. van"
+855,14,low,RB,JJ,0,0,0,0,superconductors remains too low for most practical
+855,16,most,JJS,RBS,0,0,0,0,too low for most practical uses because
+858,26,that,IN,WDT,0,0,0,0,pinning '' problem that earlier this year
+860,10,introduced,VBD,VBN,0,0,0,0,changes his team introduced apparently pins the
+861,12,what,WDT,WP,0,0,0,0,to determine precisely what crystal changes solved
+863,22,earlier,JJR,RBR,0,0,0,0,a process discovered earlier at Bell Laboratories
+865,11,1st,CD,JJ,0,1,1,1,"at San Francisco-based 1st Nationwide Bank ,"
+865,19,chief,NN,JJ,0,0,0,0,named president and chief executive officer of
+865,29,operating,VBG,NN,0,0,0,0,"and its principal operating unit , Fidelity"
+867,4,A.,NNP,NN,0,0,0,0,"He succeeds James A. Taylor , who"
+867,15,chief,NN,JJ,0,0,0,0,", president and chief executive in March"
+869,6,third-quarter,NN,JJ,0,0,0,0,Citadel posted a third-quarter net loss of
+869,20,versus,CC,JJ,0,0,0,0,"a share , versus net income of"
+869,36,earlier,JJR,RBR,0,0,0,0,", a year earlier ."
+871,2,included,VBD,VBN,0,0,0,0,Those included costs associated with
+872,4,operating,VBG,NN,0,0,0,0,"In addition , operating results were hit"
+874,2,following,VBG,JJ,0,0,0,0,The following were among yesterday
+874,14,non-U.S.,NNP,JJ,0,0,0,0,"the U.S. and non-U.S. capital markets ,"
+889,12,lead,NN,JJ,0,0,0,0,according to the lead underwriter .
+891,5,single-family,NN,JJ,0,0,0,0,"80.8 million of single-family program bonds ,"
+892,21,alternative,NN,JJ,0,0,0,0,to the federal alternative minimum tax .
+892,22,minimum,NN,JJ,0,0,0,0,the federal alternative minimum tax .
+896,17,alternative,NN,JJ,0,0,0,0,to the federal alternative minimum tax .
+896,18,minimum,NN,JJ,0,0,0,0,the federal alternative minimum tax .
+903,27,expected,VBN,JJ,0,0,0,0,shares at an expected premium of 2
+903,35,closing,JJ,NN,0,0,0,0,% to the closing price when terms
+905,2,Intecknings,NNP,NNPS,0,1,1,1,Svenska Intecknings Garanti Aktiebolaget (
+906,3,yen,NN,NNS,0,0,0,0,20 billion yen of 6 %
+906,22,less,RBR,CC,0,0,0,0,"yield 6.03 % less full fees ,"
+910,18,fixed,VBN,JJ,0,0,0,0,", with a fixed 0.25 % coupon"
+910,23,par,NN,JJ,0,0,0,0,% coupon at par via Yamaichi Bank
+911,10,fixed,VBN,JJ,0,0,0,0,", at a fixed 107 7/8 to"
+912,26,closing,JJ,NN,0,0,0,0,premium over the closing share price Monday
+915,18,fixed,VBN,JJ,0,0,0,0,", with a fixed 0.25 % coupon"
+916,1,Put,VB,JJ,0,0,0,0,Put option on Dec.
+916,11,fixed,VBN,JJ,0,0,0,0,", at a fixed 106 7/8 to"
+917,27,closing,JJ,NN,0,0,0,0,premium over the closing share price Tuesday
+925,13,up,IN,RP,0,0,0,0,taxpayers to sink up to $ 100
+932,11,found,VBN,VBD,0,0,0,0,football stadiums and found that only one
+932,29,out,IN,RP,0,0,0,0,than it took out .
+935,10,ago,IN,RB,0,0,0,0,ballpark two years ago .
+936,8,down,RP,RB,0,0,0,0,voters turned thumbs down on a $
+938,9,such,PDT,JJ,0,0,0,0,the stadium was such a good idea
+939,12,best,JJS,RB,0,0,0,0,ballpark is at best running even in
+940,18,1960s,CD,NNS,0,0,0,0,"Giants in the 1960s , wo n't"
+945,3,ago,IN,RB,0,0,0,0,Several years ago he gave up
+947,14,better,RBR,JJR,0,0,0,0,"we can do better , '' Mr."
+948,20,Superdome,NNP,NN,0,1,1,1,"cavernous , money-losing Superdome , questions of"
+948,25,benefits,VBZ,NNS,0,0,0,0,questions of who benefits or the bottom
+948,28,bottom,NN,JJ,0,0,0,0,benefits or the bottom line are of
+950,15,much,RB,JJ,0,0,0,0,", not how much of it is"
+950,22,economics,NN,NNS,0,0,0,0,used or its economics . ''
+951,2,Egyptian,JJ,NNP,0,0,0,0,An Egyptian Pharaoh could n't
+953,19,building,VBG,NN,0,0,0,0,to finance the building schemes of our
+954,5,that,IN,DT,0,0,0,0,International PLC said that net income for
+954,12,ended,VBD,VBN,0,0,0,0,the six months ended Oct. 1 slipped
+958,1,Pretax,NN,JJ,0,0,0,0,Pretax profit fell 3.7
+959,19,earlier,JJR,RBR,0,0,0,0,pence a year earlier .
+964,35,Holdings,NNP,NNPS,0,0,0,0,Shearson Lehman Hutton Holdings Inc. is under
+967,5,retain,VB,VBP,0,0,0,0,biggest firms still retain the highest ratings
+968,3,'s,VBZ,POS,0,0,0,0,But Moody 's warned that Shearson
+968,4,warned,VBN,VBD,0,0,0,0,But Moody 's warned that Shearson 's
+968,29,signal,VB,NN,0,0,0,0,its borrowings and signal trouble ahead for
+970,5,1980s,CD,NNS,0,0,0,0,Just as the 1980s bull market transformed
+970,23,1990s,CD,NNS,0,0,0,0,"environment of the 1990s , '' says"
+974,13,financing,VBG,NN,0,0,0,0,transferring almost all financing risks to investors
+975,27,lending,VBG,NN,0,0,0,0,resulting in long-term lending commitments that stretch
+976,45,warning,VBG,NN,0,0,0,0,which raised a warning flag for the
+977,7,Catch-22,NN,JJ,0,0,0,0,"is facing a Catch-22 situation , ''"
+978,24,around,IN,RB,0,0,0,0,it to go around . ''
+979,35,shrinks,VBZ,NNS,0,1,1,1,of junk-bond financings shrinks .
+980,20,borrowing,NN,VBG,0,0,0,0,"financed largely by borrowing , with the"
+984,12,most,JJS,RBS,0,0,0,0,First Boston 's most lucrative client of
+985,33,bedding,NN,VBG,0,1,1,1,buy-out of the bedding company was withdrawn
+988,7,benefits,VBZ,NNS,0,0,0,0,", however , benefits from the backing"
+991,6,listed,VBN,VBD,0,0,0,0,", Shearson 's listed $ 2 billion"
+994,4,ago,IN,RB,0,0,0,0,"`` A year ago , Moody 's"
+994,7,'s,POS,VBZ,0,0,0,0,"ago , Moody 's also had Shearson"
+998,26,insider-trading,JJ,NN,0,0,0,0,to a big insider-trading scandal .
+999,6,retail,NN,JJ,0,0,0,0,year eliminated its retail or individual customer
+1004,5,leading,JJ,VBG,0,0,0,0,And as a leading investment and merchant
+1004,18,longer,JJR,RB,0,0,0,0,we are no longer subject to the
+1006,22,retired,VBD,VBN,0,0,0,0,"Sable cars , retired early after experiencing"
+1007,18,manufacturing,VBG,NN,0,0,0,0,of product and manufacturing engineering at Ford
+1008,4,best,JJS,RB,0,0,0,0,But he is best known in the
+1008,22,midsized,VBN,JJ,0,0,0,0,produced the two midsized cars that were
+1008,34,record,VB,NN,0,0,0,0,2 auto maker record profits in recent
+1009,22,assembly-line,NN,JJ,0,1,1,1,"parts suppliers , assembly-line workers , auto"
+1011,3,later,JJ,RB,0,0,0,0,It was later applied to other
+1011,7,new-car,NN,JJ,0,0,0,0,"applied to other new-car programs , including"
+1015,12,wish,VB,VBP,0,0,0,0,makes judges sometimes wish to offer a
+1015,18,Solomonic,JJ,NNP,0,1,1,1,a kind of Solomonic aid to those
+1018,3,1940s,CD,NNS,0,0,0,0,"From the 1940s until 1971 ,"
+1020,3,1970s,CD,NNS,0,0,0,0,"In the 1970s , scientists reported"
+1023,17,market-share,JJ,NN,0,0,0,0,and created a market-share test so that
+1026,5,down,IN,RP,0,0,0,0,courts quickly tumbled down a slippery slope
+1026,7,slippery,JJ,NN,0,1,1,1,tumbled down a slippery slope .
+1028,18,market-share,JJ,NN,0,0,0,0,court expanded the market-share approach for the
+1029,14,reasoning,NN,VBG,0,0,0,0,", by this reasoning a defendant could"
+1033,13,harder,JJR,RBR,0,0,0,0,make it much harder to win DES
+1034,14,hidden,VBN,JJ,0,0,0,0,"the huge , hidden social costs ."
+1039,32,short,RB,JJ,0,0,0,0,company 's stock short . ''
+1041,11,off,IN,RP,0,0,0,0,would be better off if their cases
+1043,21,even,VB,RB,0,0,0,0,predictably led to even more litigation .
+1044,15,deserving,JJ,VBG,0,1,1,1,legislation to help deserving people without its
+1046,4,that,IN,DT,0,0,0,0,They must figure that justice has to
+1047,26,plus,CC,IN,0,0,0,0,$ 500 million plus the assumption of
+1048,14,Northeast,NN,NNP,0,0,0,0,stores in the Northeast ; it reported
+1050,1,N.V,NN,NNP,0,0,0,0,N.V . DSM said
+1051,38,ago,IN,RB,0,0,0,0,", a year ago ."
+1056,16,flat,JJ,RB,0,0,0,0,its tax outlay flat relative to earnings
+1058,15,intraocular,JJ,NN,0,1,1,1,"sell the PhacoFlex intraocular lens , the"
+1058,22,lens,NN,VBZ,0,0,0,0,first foldable silicone lens available for cataract
+1064,3,intentioned,JJ,VBN,0,1,1,1,"However well intentioned , food transfers"
+1072,9,estimated,VBN,VBD,0,0,0,0,", Wis. , estimated earnings for its"
+1072,15,ended,VBD,VBN,0,0,0,0,its fourth quarter ended Sept. 30 fell
+1075,16,chassis,NN,NNS,0,0,0,0,"of its new chassis division , a"
+1075,21,motor-home,NN,JJ,0,1,1,1,", a softer motor-home market and higher"
+1076,24,chassis,NN,NNS,0,0,0,0,midsized motor home chassis .
+1077,16,chassis,NN,JJ,0,0,0,0,said a larger-than-normal chassis supply has been
+1078,4,up,IN,RP,0,0,0,0,Tokyo stocks edged up Wednesday in relatively
+1079,5,higher,JJR,RBR,0,0,0,0,shares finished moderately higher .
+1085,22,untrue,JJ,RB,0,0,0,0,shares eventually proved untrue .
+1087,8,trading,VBG,NN,0,0,0,0,Wednesday by actively trading for their own
+1092,4,managing,VBG,NN,0,0,0,0,"Akio Yamamoto , managing director of Nomura"
+1092,42,participate,VB,JJ,0,0,0,0,thus more comfortably participate in active buying
+1095,14,yen,NN,NNS,0,0,0,0,") to 1,880 yen ( $ 13.15"
+1096,7,tied,VBN,VBD,0,0,0,0,high gold prices tied to uncertainty about
+1097,14,yen,NN,NNS,0,0,0,0,", advanced 100 yen to 1,460 ."
+1099,6,yen,NN,NNS,0,0,0,0,Mining fell five yen to 692 and
+1100,11,up,IN,RB,0,0,0,0,", which was up 80 at 2,410"
+1104,11,low,JJ,NN,0,0,0,0,posting an intraday low of 2141.7 in
+1107,9,higher,JJR,RBR,0,0,0,0,chips were pushed higher in thin volume
+1108,3,firm,JJ,NN,0,0,0,0,"Sterling 's firm tone , combined"
+1109,17,overdone,VBN,JJ,0,1,1,1,on Tuesday were overdone and due for
+1114,19,pence,NN,NNS,0,0,0,0,", gained 10 pence ( 16 cents"
+1120,7,off,IN,RP,0,0,0,0,B.A.T also eased off its highs in
+1121,21,pretax,NN,JJ,0,0,0,0,drop in interim pretax profit .
+1122,6,pretax,NN,JJ,0,0,0,0,the fall in pretax profit was due
+1124,5,shopping,VBG,NN,0,0,0,0,boosted by market-makers shopping to cover book
+1131,15,mixed,VBN,JJ,0,0,0,0,"Wellington , were mixed in Hong Kong"
+1136,2,following,VBG,JJ,0,0,0,0,The following issues were recently
+1137,4,offering,VBG,NN,0,0,0,0,"Intermec Corp. , offering of 1,050,000 common"
+1138,5,offering,VBG,NN,0,0,0,0,"Water Co. , offering of 150,000 shares"
+1143,5,proposed,VBD,VBN,0,0,0,0,"Fracturing Co. , proposed offering of 1.2"
+1146,24,by,IN,RP,0,0,0,0,"the years go by , it seems"
+1149,29,circuit-board,NN,JJ,0,1,1,1,"Irvine , Calif.-based circuit-board manufacturer illegally disposed"
+1149,50,leaky,JJ,NN,0,1,1,1,"hazardous materials in leaky , unlabeled or"
+1150,18,chief,NN,JJ,0,0,0,0,"vice president and chief financial officer ,"
+1156,20,expressed,VBN,VBD,0,0,0,0,as the views expressed prior to that
+1158,11,past,NN,JJ,0,0,0,0,and in the past year has ranged
+1158,17,low,JJ,NN,0,0,0,0,ranged from a low of 112.9 to
+1162,6,contacted,VBN,VBD,0,0,0,0,% of consumers contacted believed business conditions
+1162,7,believed,VBD,VBN,0,0,0,0,of consumers contacted believed business conditions will
+1164,2,Fewer,JJR,NNP,0,0,0,0,( Fewer said conditions wo
+1171,1,Buying,VBG,NN,0,0,0,0,Buying plans were mixed
+1171,4,mixed,VBN,JJ,0,0,0,0,"Buying plans were mixed in October ,"
+1185,4,lead,NN,JJ,0,0,0,0,Syndicate officials at lead underwriter Salomon Brothers
+1185,15,up,RP,IN,0,0,0,0,"were snapped by up pension funds ,"
+1186,24,mixed,VBN,JJ,0,0,0,0,part provided a mixed view of the
+1191,17,meeting,NN,VBG,0,0,0,0,Open Market Committee meeting on Nov. 14.
+1193,25,that,IN,DT,0,0,0,0,Francisco banks noted that business expanded .
+1194,2,purchasing,VBG,NN,0,0,0,0,The purchasing managers index of
+1195,9,manufacturing,VBG,NN,0,0,0,0,indicates that the manufacturing sector is slowing
+1196,6,showing,NN,VBG,0,0,0,0,said the diverse showing in yesterday 's
+1197,18,out,IN,RP,0,0,0,0,", is due out tomorrow ."
+1198,18,expanded,VBD,VBN,0,0,0,0,"that non-farm payrolls expanded by 152,000 in"
+1201,27,quarterly,RB,JJ,0,0,0,0,next week 's quarterly refunding of the
+1206,7,contingent,NN,JJ,0,0,0,0,the refunding is contingent upon congressional and
+1208,7,higher,JJR,RBR,0,0,0,0,bonds ended modestly higher in quiet trading
+1209,2,benchmark,NN,JJ,0,0,0,0,The benchmark 30-year bond about
+1213,1,Corporate,NNP,JJ,0,0,0,0,Corporate Issues
+1213,2,Issues,NNPS,NNS,0,0,0,0,Corporate Issues
+1223,6,net,NN,JJ,0,0,0,0,said the average net asset value of
+1224,1,Mortgage-Backed,NNP,JJ,0,0,0,0,Mortgage-Backed Issues
+1224,2,Issues,NNPS,NNS,0,0,0,0,Mortgage-Backed Issues
+1227,14,average,NN,JJ,0,0,0,0,to a 12-year average life .
+1229,1,Municipal,NNP,JJ,0,0,0,0,Municipal Issues
+1229,2,Issues,NNPS,NNS,0,0,0,0,Municipal Issues
+1232,5,lead,NN,JJ,0,0,0,0,official for the lead underwriter declined to
+1233,22,lead,NN,JJ,0,0,0,0,according to the lead underwriter .
+1234,19,off,RP,RB,0,0,0,0,allocation bonds got off to a slow
+1234,38,lead,NN,JJ,0,0,0,0,an official with lead underwriter Donaldson Lufkin
+1240,1,So,IN,RB,0,0,0,0,"So far , they"
+1242,21,Bund,NN,NNP,0,1,1,1,"that the last Bund , a 7"
+1244,6,benchmark,NN,JJ,0,0,0,0,"Japan , the benchmark No. 111 4.6"
+1244,14,ended,VBD,VBN,0,0,0,0,issue due 1998 ended on brokers screens
+1245,6,benchmark,NN,JJ,0,0,0,0,"Britain , the benchmark 11 3/4 %"
+1247,10,triple-C,NN,NNP,0,1,1,1,to double-C from triple-C the rating on
+1248,37,ended,VBD,VBN,0,0,0,0,for the year ended June 30 .
+1249,1,Travelers,NNPS,NNP,0,0,0,0,Travelers Corp. 's third-quarter
+1249,4,third-quarter,NN,JJ,0,0,0,0,Travelers Corp. 's third-quarter net income rose
+1249,5,net,NN,JJ,0,0,0,0,Corp. 's third-quarter net income rose 11
+1250,26,net,NN,JJ,0,0,0,0,"share , including net realized investment gains"
+1250,27,realized,VBD,VBN,0,0,0,0,", including net realized investment gains of"
+1250,42,ago,IN,RB,0,0,0,0,million a year ago .
+1252,1,Travelers,NNPS,NNS,0,0,0,0,Travelers estimated that the
+1252,13,fourth-quarter,NN,JJ,0,0,0,0,result in a fourth-quarter pre-tax charge of
+1253,38,ago,IN,RB,0,0,0,0,million a year ago .
+1254,1,Travelers,NNPS,NNP,0,0,0,0,Travelers 's employee benefits
+1262,14,pretax,NN,JJ,0,0,0,0,", had 1988 pretax profit of #"
+1263,12,clean-air,JJ,NN,0,0,0,0,"President Bush 's clean-air bill , plans"
+1263,33,acid,JJ,NN,0,0,0,0,centerpiece issue : acid rain .
+1264,35,acid,JJ,VB,0,0,0,0,that lead to acid rain .
+1265,15,up,RB,IN,0,0,0,0,"use coal , up to $ 4"
+1266,15,chaos,NN,NNS,0,0,0,0,temporarily throws into chaos the House 's
+1266,21,clean-air,JJ,NN,0,0,0,0,'s work on clean-air legislation .
+1267,18,clean-air,JJ,NN,0,0,0,0,single-handed control over clean-air legislation .
+1268,2,close,JJ,RB,0,0,0,0,People close to the utility
+1268,18,seven-million-ton,JJ,NN,0,1,1,1,only an estimated seven-million-ton cut in annual
+1268,22,sulfur-dioxide,NN,JJ,0,1,1,1,cut in annual sulfur-dioxide emissions that lead
+1268,27,acid,NN,VB,0,0,0,0,"that lead to acid rain , though"
+1268,36,later,JJ,RB,0,0,0,0,could be ordered later .
+1270,25,sulfur-dioxide,NN,JJ,0,1,1,1,on utilities ' sulfur-dioxide emissions .
+1272,10,trading,VBG,NN,0,0,0,0,market-based system for trading emissions credits among
+1273,10,cost-sharing,JJ,NN,0,0,0,0,to offer a cost-sharing mechanism that would
+1275,10,acid-rain,NN,JJ,0,1,1,1,to present its acid-rain alternative to other
+1276,27,acid-rain,NN,JJ,0,1,1,1,White House 's acid-rain plan .
+1277,34,burn,VBP,JJ,0,0,0,0,cleanup equipment or burn cleaner-burning fuels .
+1278,28,acid-rain,NN,JJ,0,1,1,1,to address their acid-rain concerns .
+1279,18,relocate,NN,VB,0,0,0,0,resign rather than relocate to new headquarters
+1279,21,headquarters,NNS,NN,0,0,0,0,"relocate to new headquarters in Charlotte ,"
+1280,31,underwent,VBD,VBP,0,0,0,0,", which recently underwent an ownership change"
+1287,15,further,JJ,RB,0,0,0,0,allowed to fall further than 12 points
+1289,11,trading,NN,VBG,0,0,0,0,Board to halt trading for one hour
+1290,7,Order,NNP,NN,0,0,0,0,The `` Designated Order Turnaround '' System
+1290,8,Turnaround,NNP,NN,0,0,0,0,`` Designated Order Turnaround '' System was
+1290,10,System,NNP,NN,0,0,0,0,Order Turnaround '' System was launched by
+1292,16,about,IN,RB,0,0,0,0,", SuperDot handles about 80 % of"
+1293,1,Futures,NNPS,NNS,0,0,0,0,Futures Contracts -- Obligations
+1293,17,deliver,VBP,VB,0,0,0,0,contract ) or deliver ( for those
+1294,13,due,JJ,RB,0,0,0,0,before they come due .
+1298,1,Quant,NN,NNP,0,1,1,1,"Quant -- Generally ,"
+1299,16,physics,NN,NNS,0,0,0,0,"their backgrounds in physics and mathematics ,"
+1299,18,mathematics,NN,NNS,0,0,0,0,"in physics and mathematics , devise the"
+1299,22,complex,NN,JJ,0,0,0,0,", devise the complex hedging and trading"
+1305,12,poor,NNP,JJ,0,0,0,0,on Standard & poor 's 500-stock index
+1305,33,that,WDT,IN,0,0,0,0,a 20-stock index that mimics the Dow
+1305,34,mimics,VBZ,NNS,0,0,0,0,20-stock index that mimics the Dow Jones
+1305,44,chicago,NNP,NN,0,1,0,0,traded on the chicago Board of Trade
+1306,32,underlying,VBG,JJ,0,0,0,0,amount of an underlying investment by a
+1307,6,underlying,VBG,JJ,0,0,0,0,"indexes , the underlying investment may be"
+1311,33,labor-management,JJ,NN,0,0,0,0,revive a failed labor-management bid .
+1318,31,labor-management,NN,JJ,0,0,0,0,", $ 300-a-share labor-management buy-out ."
+1323,12,low,JJ,NN,0,0,0,0,rebound from a low of $ 145
+1349,12,paid,VBN,VBD,0,0,0,0,"the above-market price paid , prove that"
+1349,20,scared,JJ,VBN,0,0,0,0,Edelman is running scared .
+1351,22,own,VBN,VB,0,0,0,0,"does n't already own , had been"
+1356,4,The,NNP,DT,0,0,0,0,Dow Jones publishes The Wall Street Journal
+1357,12,ended,VBD,VBN,0,0,0,0,the fourth quarter ended Sept. 30 .
+1358,16,half,DT,NN,0,0,0,0,that the first half of fiscal 1990
+1359,29,passenger-car,NN,JJ,0,1,1,1,the heavy-truck and passenger-car markets .
+1360,23,half,DT,NN,0,0,0,0,in the second half and about equal
+1362,4,operating,VBG,NN,0,0,0,0,That compares with operating earnings of $
+1362,19,earlier,JJR,RBR,0,0,0,0,", the year earlier ."
+1365,23,electronics,NNS,NN,0,0,0,0,the company 's electronics segment .
+1366,1,Overall,JJ,RB,0,0,0,0,"Overall , pretax electronics"
+1367,11,ended,VBD,VBN,0,0,0,0,the three months ended Sept. 30 .
+1369,15,positive,JJ,NN,0,0,0,0,"chairman as a positive , saw its"
+1369,24,jump,VB,NN,0,0,0,0,for the quarter jump 79 % to
+1370,12,newspaper-printing,NN,JJ,0,1,1,1,"of the Colorliner newspaper-printing press , graphics"
+1371,20,B-1B,NN,JJ,0,1,1,1,due to lower B-1B program profit ;
+1371,30,out,IN,RP,0,0,0,0,the bombers rolled out in April 1988
+1372,17,launch-vehicle,NN,JJ,0,1,1,1,demand for expendable launch-vehicle engines .
+1373,23,C-130,NN,JJ,0,1,1,1,"-- probably the C-130 gunship , according"
+1374,20,down,IN,RB,0,0,0,0,"a share , down from $ 811.9"
+1375,5,profit,NN,VB,0,0,0,0,one-time additions to profit in each year
+1378,30,System,NN,NNP,0,0,0,0,reduction on its System 210 computer with
+1381,24,down,IN,RP,0,0,0,0,have been coming down as chip prices
+1387,11,ended,VBD,VBN,0,0,0,0,"without restraints , ended with a gain"
+1389,41,so,IN,RB,0,0,0,0,the 1990-91 season so that it can
+1390,26,run,VBP,VBN,0,0,0,0,newly made automobiles run on alcohol and
+1397,6,right,RB,NN,0,0,0,0,were granted the right earlier this year
+1397,7,earlier,RB,RBR,0,0,0,0,granted the right earlier this year to
+1400,15,orange,JJ,NN,0,0,0,0,to planting of orange trees in areas
+1405,30,one,NN,PRP,0,0,0,0,", and no one can confirm it"
+1407,9,ethanol,NN,JJ,0,1,1,1,Brazil started an ethanol program about 15
+1407,14,ago,IN,RB,0,0,0,0,about 15 years ago to fuel a
+1414,1,Petroleum,NNP,NN,0,0,0,0,Petroleum futures were generally
+1414,7,heating,NN,VBG,0,0,0,0,generally higher with heating oil leading the
+1415,8,heating,NN,VBG,0,0,0,0,"Mercantile Exchange , heating oil for December"
+1416,4,mixed,VBN,JJ,0,0,0,0,Gasoline futures were mixed to unchanged .
+1418,4,crude,JJ,NN,0,0,0,0,West Texas Intermediate crude for December delivery
+1419,9,colder,JJR,VB,0,1,1,1,was attributed to colder weather in parts
+1420,1,GRAINS,NNPS,NNS,0,0,0,0,GRAINS AND SOYBEANS :
+1420,2,AND,NNP,CC,0,0,0,0,GRAINS AND SOYBEANS :
+1420,3,SOYBEANS,NNPS,NNS,0,0,0,0,GRAINS AND SOYBEANS :
+1422,11,All,NNP,DT,0,0,0,0,the observance of All Saints ' Day
+1422,12,Saints,NNP,NNPS,0,1,0,0,observance of All Saints ' Day across
+1423,1,Continued,VBN,JJ,0,0,0,0,Continued export demand also
+1428,1,COPPER,NNP,NN,0,0,0,0,COPPER :
+1431,21,mine,JJ,NN,0,0,0,0,that a Chilean mine strike may have
+1436,4,Younkers,NNP,NNPS,0,1,1,1,"The parent of Younkers , after failing"
+1437,17,Younkers,NNP,NNPS,0,1,1,1,for the 36-store Younkers chain since June
+1438,22,Younkers,NNP,NNPS,0,1,1,1,value '' for Younkers because of recent
+1441,1,Younkers,NNP,NNS,0,1,1,1,Younkers management is likely
+1441,29,chief,NN,JJ,0,0,0,0,'s president and chief executive officer .
+1442,11,Younkers,NNP,NNPS,0,1,1,1,its stake in Younkers to less than
+1448,1,Neither,DT,CC,0,0,0,0,Neither Equus nor Tony
+1450,2,Holdings,NNP,NNPS,0,0,0,0,Reuters Holdings PLC said Michael
+1461,5,surprised,VBN,JJ,0,0,0,0,would be very surprised if his departure
+1463,8,depositary,NN,JJ,0,0,0,0,"market , American depositary shares for Reuters"
+1464,2,senior,NN,JJ,0,0,0,0,The senior of the three
+1465,6,deputy,JJ,NN,0,0,0,0,", 45 , deputy general manager ,"
+1467,31,Donuts,NNPS,NNP,0,0,0,0,for all Dunkin' Donuts Inc. shares outstanding
+1476,5,third-quarter,NN,JJ,0,0,0,0,Corp. reported a third-quarter net loss of
+1477,41,asset-valuation,NN,JJ,0,1,1,1,8.2 million in asset-valuation adjustments that he
+1479,16,earlier,JJR,RBR,0,0,0,0,million a year earlier .
+1481,9,third-quarter,NN,JJ,0,0,0,0,to report a third-quarter net loss of
+1482,41,overhead,JJ,NN,0,0,0,0,2.8 million in overhead costs that wo
+1485,3,earlier,JJR,RBR,0,0,0,0,"A year earlier , net income"
+1486,27,higher,JJR,RBR,0,0,0,0,prices closed slightly higher in sluggish trading
+1490,20,up,IN,RB,0,0,0,0,Composite Index went up 0.60 to 188.84
+1492,9,down,IN,RB,0,0,0,0,"154,240,000 shares , down from 176.1 million"
+1493,6,purchasing,VBG,NN,0,0,0,0,"survey of corporate purchasing managers , as"
+1493,12,provided,VBN,VBD,0,0,0,0,"as expected , provided evidence that economic"
+1494,27,manufacturing,VBG,NN,0,0,0,0,indicated that the manufacturing sector was improving
+1495,7,better,JJR,RBR,0,0,0,0,index proving somewhat better than expected and
+1497,13,up,RB,IN,0,0,0,0,"( stocks ) up , but if"
+1498,10,stock-index,JJ,NN,0,0,0,0,"action to curtail stock-index arbitrage , a"
+1501,23,out,IN,RP,0,0,0,0,"the figures come out , '' said"
+1502,19,chief,NN,JJ,0,0,0,0,as president and chief executive officer sparked
+1502,20,executive,NN,JJ,0,0,0,0,president and chief executive officer sparked a
+1504,5,restructuring,VBG,NN,0,0,0,0,rumored takeover and restructuring candidates to attract
+1506,7,fourth-quarter,NN,JJ,0,0,0,0,"it plans a fourth-quarter charge , which"
+1510,31,labor-management,NN,JJ,0,0,0,0,"offer from a labor-management group , will"
+1513,31,composite,NN,JJ,0,0,0,0,in Big Board composite trading of 5.1
+1514,5,down,IN,RB,0,0,0,0,", which went down 2 1/2 Tuesday"
+1515,7,mixed,VBN,JJ,0,0,0,0,forest-products stocks closed mixed .
+1518,26,ex-dividend,JJ,NN,0,0,0,0,% and goes ex-dividend today .
+1522,5,fourth-quarter,NN,JJ,0,0,0,0,company forecast that fourth-quarter income from continuing
+1522,19,earlier,JJR,RBR,0,0,0,0,than a year earlier .
+1523,3,up,IN,RB,0,0,0,0,Allergan went up 1/2 to 19
+1532,3,Partners,NNP,NNPS,0,0,0,0,Freeport-McMoRan Energy Partners will be liquidated
+1536,18,pretax,NN,JJ,0,0,0,0,parent concern 's pretax earnings in the
+1536,23,half,DT,NN,0,0,0,0,in the first half ended last Sept.
+1536,24,ended,VBD,VBN,0,0,0,0,the first half ended last Sept. 30
+1536,34,yen,NN,NNS,0,0,0,0,to 88.32 billion yen ( $ 618.1
+1536,43,yen,NN,NNS,0,0,0,0,from 77.6 billion yen a year earlier
+1536,46,earlier,JJR,RBR,0,0,0,0,yen a year earlier .
+1538,8,yen,NN,NNS,0,0,0,0,"to 40.21 billion yen , or 16.09"
+1538,12,yen,NN,NNS,0,0,0,0,", or 16.09 yen a share ,"
+1538,19,yen,NN,NNS,0,0,0,0,"from 28.36 billion yen , or 11.72"
+1538,23,yen,NN,NNS,0,0,0,0,", or 11.72 yen a share ."
+1539,5,yen,NN,NNS,0,0,0,0,"totaled 1.916 trillion yen , climbing 17"
+1539,13,yen,NN,NNS,0,0,0,0,from 1.637 trillion yen in the year-earlier
+1541,8,chief,NN,JJ,0,0,0,0,vice president and chief financial officer of
+1542,5,said,VBN,VBD,0,0,0,0,It can be said that the trend
+1544,24,preferred,VBN,JJ,0,0,0,0,of a new preferred stock for each
+1545,26,preferred,VBN,JJ,0,0,0,0,"and 2.35 million preferred shares , a"
+1547,32,preferred,VBD,VBN,0,0,0,0,shares for each preferred .
+1548,15,customized,VBN,JJ,0,0,0,0,"network , a customized music , information"
+1548,20,advertising,VBG,NN,0,0,0,0,", information and advertising service which simulates"
+1550,21,fourth-quarter,NN,JJ,0,0,0,0,report that fiscal fourth-quarter profit from continuing
+1551,8,that,DT,IN,0,0,0,0,company also said that full-year profit from
+1554,39,cluster,NN,JJR,0,0,0,0,", that makes cluster bombs for GenCorp"
+1555,8,third-quarter,NN,JJ,0,0,0,0,"Francisco , said third-quarter profit was essentially"
+1555,20,earlier,JJR,RBR,0,0,0,0,gain a year earlier .
+1556,40,earlier,JJR,RBR,0,0,0,0,", the year earlier ."
+1558,3,third-quarter,NN,JJ,0,0,0,0,Transamerica said third-quarter investment gains were
+1558,18,earlier,JJR,RBR,0,0,0,0,million the year earlier .
+1560,27,fourth-quarter,NN,JJ,0,0,0,0,be included in fourth-quarter results .
+1561,6,Heights,NNP,NNPS,0,0,0,0,"Inc. , Hasbrouk Heights , N.J. ,"
+1561,12,cash-flow,JJ,NN,0,0,0,0,", facing a cash-flow squeeze , said"
+1561,20,financing,VBG,NN,0,0,0,0,is seeking other financing sources and waivers
+1562,18,maintain,VB,VBP,0,0,0,0,requirements that it maintain $ 3 million
+1573,49,chief,NN,JJ,0,0,0,0,"William Feniger , chief executive officer of"
+1575,6,identified,VBD,VBN,0,0,0,0,concern was n't identified .
+1577,4,mid-afternoon,JJ,NN,0,0,0,0,"In London at mid-afternoon yesterday , Ratners"
+1578,7,more,RBR,JJR,0,0,0,0,has acceptances from more than 50 %
+1581,3,Lines,NNP,NNPS,0,0,0,0,Carnival Cruise Lines Inc. said potential
+1582,24,planned,VBD,VBN,0,0,0,0,"cruise ships , planned to file for"
+1583,16,on,RP,IN,0,0,0,0,that will carry on Waertsilae 's shipbuilding
+1586,10,late,JJ,RB,0,0,0,0,to be delivered late next year or
+1589,17,third-quarter,NN,JJ,0,0,0,0,it reported a third-quarter loss of $
+1590,23,ago,IN,RB,0,0,0,0,", a year ago ."
+1591,5,pretax,NN,JJ,0,0,0,0,bulk of the pretax charge is a
+1591,14,capitalized,VBN,JJ,0,0,0,0,million write-off of capitalized servicing at the
+1591,20,financing,VBG,NN,0,0,0,0,"the mobile home financing subsidiary , which"
+1593,13,eliminated,VBN,VBD,0,0,0,0,loan reserves and eliminated $ 9.9 million
+1596,22,ago,IN,RB,0,0,0,0,million a year ago .
+1598,1,First,NNP,RB,0,0,0,0,First of America Bank
+1598,17,about,IN,RB,0,0,0,0,Group Inc. for about $ 250 million
+1599,1,First,NNP,RB,0,0,0,0,"First of America ,"
+1602,19,Financial,NNP,JJ,0,0,0,0,the former Midwest Financial parent company .
+1603,1,First,NNP,RB,0,0,0,0,First of America said
+1605,12,peaked,JJ,VBD,0,0,0,0,maker whose stock peaked at $ 65
+1605,21,1980s,CD,NNS,0,0,0,0,"in the early 1980s , filed a"
+1608,5,about,IN,RB,0,0,0,0,"these payments , about $ 225,000 will"
+1611,18,bankruptcy-law,JJ,NN,0,0,0,0,and filed for bankruptcy-law protection in July
+1619,1,East,NNP,JJ,0,0,0,0,East German leader Krenz
+1619,2,German,NNP,JJ,0,0,0,0,East German leader Krenz called
+1619,22,marching,VBG,NN,0,0,0,0,many of those marching for democratic freedoms
+1623,4,Communist,NNP,JJ,0,0,0,0,"Also , a Communist official for the"
+1624,1,Health,NNP,NN,0,0,0,0,Health officials plan to
+1624,14,fetal-tissue,NN,JJ,0,0,0,0,of research involving fetal-tissue transplants .
+1625,2,assistant,JJ,NN,0,0,0,0,The assistant HHS secretary said
+1627,5,plans,VBP,VBZ,0,0,0,0,Dingell of Michigan plans to unveil today
+1627,27,acid,JJ,VB,0,0,0,0,that lead to acid rain .
+1629,1,House-Senate,NNP,NN,0,0,0,0,House-Senate conferees approved major
+1629,10,more,RBR,JJR,0,0,0,0,a package for more than $ 500
+1631,4,armed,VBN,JJ,0,0,0,0,South Africa accused armed Namibian nationalist guerrillas
+1632,1,South,NNP,JJ,0,0,0,0,South African troops were
+1632,2,African,NNP,JJ,0,0,0,0,South African troops were placed
+1640,7,no-confidence,NN,JJ,0,1,1,1,defeated the first no-confidence motion in the
+1642,13,Soviet,NNP,JJ,0,0,0,0,between Bush and Soviet leader Gorbachev will
+1646,2,Am,VBP,NNP,0,0,0,0,Pan Am has subpoenaed several
+1648,1,Died,VBD,VBN,0,0,0,0,Died : James A.
+1648,4,A.,NNP,NN,0,0,0,0,"Died : James A. Attwood , 62"
+1650,20,later,JJ,RB,0,0,0,0,"the movie studio later this month ,"
+1652,2,unresolved,JJ,VBN,0,0,0,0,Still unresolved is Sony 's
+1653,3,planned,VBN,JJ,0,0,0,0,Sony 's planned acquisition of Guber/Peters
+1654,1,Guber/Peters,NNP,NNS,0,1,1,1,Guber/Peters has been locked
+1660,5,financial-services,JJ,NNS,0,0,0,0,at Xerox 's financial-services operations actually rose
+1660,22,offset,VBP,VBD,0,0,0,0,Crum & Forster offset Hurricane Hugo payments
+1660,29,set,VBD,VBN,0,0,0,0,and the reserves set up to cover
+1662,6,integrated,VBN,JJ,0,0,0,0,", a large integrated maker of construction"
+1662,20,pretax,NN,JJ,0,0,0,0,gain in first-half pretax profit .
+1663,4,ended,VBD,VBN,0,0,0,0,"For the period ended Sept.30 , it"
+1663,5,Sept.30,CD,NNP,0,1,1,1,"the period ended Sept.30 , it earned"
+1663,11,yen,NN,NNS,0,0,0,0,"earned 16.68 billion yen , ( US$"
+1663,22,yen,NN,NNS,0,0,0,0,from 12.68 billion yen the year before
+1663,25,before,IN,RB,0,0,0,0,yen the year before .
+1664,8,yen,NN,NNS,0,0,0,0,to 292.32 billion yen from 263.07 billion
+1664,12,yen,NN,NNS,0,0,0,0,from 263.07 billion yen .
+1665,9,yen,NN,NNS,0,0,0,0,to 7.63 billion yen from 5.82 billion
+1665,13,yen,NN,NNS,0,0,0,0,from 5.82 billion yen .
+1666,6,yen,NN,NNS,0,0,0,0,rose to 7.84 yen from 6.53 yen
+1666,9,yen,NN,NNS,0,0,0,0,yen from 6.53 yen .
+1668,17,yen,NN,NNS,0,0,0,0,to 142.84 billion yen from 126.15 billion
+1668,21,yen,NN,NNS,0,0,0,0,from 126.15 billion yen .
+1669,11,due,RB,JJ,0,0,0,0,"grew , but due to increasing production"
+1670,17,yen,NN,NNS,0,0,0,0,to 600 billion yen from 566.54 billion
+1670,21,yen,NN,NNS,0,0,0,0,from 566.54 billion yen ; pretax profit
+1670,23,pretax,NN,JJ,0,0,0,0,billion yen ; pretax profit was forecast
+1670,30,yen,NN,NNS,0,0,0,0,"at 35 billion yen , up from"
+1670,36,yen,NN,NNS,0,0,0,0,from 28.53 billion yen in fiscal 1989
+1671,9,yen,NN,NNS,0,0,0,0,to 17 billion yen from 12.82 billion
+1671,13,yen,NN,NNS,0,0,0,0,from 12.82 billion yen a year earlier
+1671,16,earlier,JJR,RBR,0,0,0,0,yen a year earlier .
+1672,7,off,IN,RP,0,0,0,0,"to be leveling off , latest reports"
+1673,16,manufacturing,NN,VBG,0,0,0,0,purchasing agents said manufacturing shrank further in
+1673,17,shrank,VBD,VBN,0,0,0,0,agents said manufacturing shrank further in October
+1673,18,further,RB,RBR,0,0,0,0,said manufacturing shrank further in October .
+1685,1,Steinberg,NNP,NN,0,0,0,0,Steinberg sought clearance to
+1692,25,chief,NN,JJ,0,0,0,0,"its chairman and chief designer , Seymour"
+1693,1,Light,NN,JJ,0,0,0,0,Light trucks and vans
+1702,4,yen,NN,NNS,0,0,0,0,"Dollar : 143.80 yen , up 0.95"
+1703,19,fizzled,VBN,JJ,0,0,0,0,"connection , a fizzled buy-out rumor ."
+1704,9,Savings,NNPS,NNP,0,0,0,0,pall over Columbia Savings & Loan Association
+1706,20,around,IN,RP,0,0,0,0,year and flies around in Columbia 's
+1708,9,third-quarter,NN,JJ,0,0,0,0,Columbia 's huge third-quarter markdown of its
+1709,9,up,IN,RP,0,0,0,0,"Columbia has edged up , closing at"
+1709,26,might,NN,MD,0,0,0,0,that the thrift might restructure .
+1712,4,about,IN,RB,0,0,0,0,Columbia has only about 10 million common
+1714,22,latter,NN,JJ,0,0,0,0,", though the latter cut its stake"
+1714,23,cut,VBD,NN,0,0,0,0,though the latter cut its stake this
+1716,25,merchant,JJ,NN,0,0,0,0,and perhaps do merchant banking .
+1722,27,restructures,VBZ,NNS,0,0,0,0,goes bust or restructures -- the junk
+1723,4,longtime,NN,JJ,0,0,0,0,"Columbia , a longtime Drexel client ,"
+1725,11,Holdings,NNP,NNPS,0,0,0,0,"Telegraph , Gillett Holdings , SCI Television"
+1726,3,that,DT,IN,0,0,0,0,"Possibly offsetting that , Columbia recently"
+1726,10,unrealized,JJ,VBN,0,0,0,0,estimated it has unrealized gains on publicly
+1729,9,regulated,VBN,JJ,0,0,0,0,"would be a regulated thrift , while"
+1730,28,shopped,VBD,VBN,0,0,0,0,"million , and shopped to a commercial"
+1733,6,much,JJ,RB,0,0,0,0,n't clear how much a restructuring would
+1742,2,Savings,NNP,NNPS,0,0,0,0,Columbia Savings & Loan (
+1744,2,ended,VBD,VBN,0,0,0,0,"Year ended Dec. 31 ,"
+1745,16,vs.,CC,FW,0,0,0,0,11.57 a share vs. net income :
+1745,17,net,NN,JJ,0,0,0,0,a share vs. net income : 37
+1748,1,Note,VB,NN,0,0,0,0,Note : All per-share
+1752,19,blood-cell,NN,JJ,0,1,1,1,"transplants and other blood-cell disorders , Genetics"
+1753,5,bone,NN,RB,0,0,0,0,"second patent describes bone morphogenetic protein-1 ,"
+1754,4,BMP-1,NN,JJ,0,1,1,1,The patent covers BMP-1 type proteins and
+1755,17,BMP,NN,NNP,0,0,0,0,number of different BMP proteins '' and
+1756,1,BMP,NN,NNP,0,0,0,0,BMP products may be
+1756,7,fracture,NN,JJ,0,1,1,1,be useful in fracture healing and in
+1757,42,qualified,VBN,JJ,0,0,0,0,than `` well qualified . ''
+1761,1,Fourteen,CD,JJ,0,1,0,0,Fourteen members of the
+1763,9,qualified,VBN,VBD,0,0,0,0,"ABA rated him qualified , '' David"
+1764,6,qualified,VBN,JJ,0,0,0,0,gives a `` qualified '' rating to
+1764,8,rating,VBG,NN,0,0,0,0,`` qualified '' rating to nominees it
+1765,12,qualified,VBN,JJ,0,0,0,0,a `` well qualified '' rating to
+1766,16,Lentjes,NNP,NNPS,0,1,1,1,from the Ferdinand Lentjes Foundation .
+1768,1,Metallgesellschaft,NN,NNP,0,1,1,1,"Metallgesellschaft , a diversified"
+1768,20,specialized,VBN,JJ,0,0,0,0,stake in the specialized engineering company to
+1769,1,Lentjes,NNP,NNS,0,1,1,1,Lentjes ' product mix
+1769,6,specialized,VBN,JJ,0,0,0,0,product mix of specialized boilers and pipes
+1769,20,H.,NN,NNP,0,0,0,0,Lurgi G.m.b . H. plant engineering unit
+1769,22,engineering,VBG,NN,0,0,0,0,". H. plant engineering unit , the"
+1771,1,Lentjes,NNP,NNS,0,1,1,1,Lentjes had 1988 sales
+1772,13,Lentjes,NNP,NNPS,0,1,1,1,public offering of Lentjes stock .
+1775,16,sweater,NN,JJR,0,0,0,0,complaints by U.S. sweater makers that the
+1777,17,later,JJ,RB,0,0,0,0,next March or later .
+1778,27,import,NN,VB,0,0,0,0,are subject to import quotas under bilateral
+1782,26,fourth-quarter,NN,JJ,0,0,0,0,result in a fourth-quarter charge .
+1784,21,offset,VBN,VB,0,0,0,0,will more than offset short-term costs .
+1788,6,much,RB,JJ,0,0,0,0,analysts questioned how much of an impact
+1792,10,about,IN,RB,0,0,0,0,likely trim only about 275 to 350
+1792,20,world-wide,JJ,RB,0,0,0,0,"than 21,000 jobs world-wide ."
+1796,7,first,RB,JJ,0,0,0,0,it is the first early retirement plan
+1799,4,managing,VBG,NN,0,0,0,0,"Jerry Chapman , managing director of WayMar"
+1799,17,telecommunications,NNS,NN,0,0,0,0,of this business telecommunications software and systems
+1801,18,detailed,VBN,JJ,0,0,0,0,", a highly detailed account of the"
+1801,28,reassuring,JJ,VBG,0,0,0,0,begins on a reassuring note .
+1802,2,up,IN,RP,0,0,0,0,Right up front in the
+1804,29,sweaty,JJ,NN,0,1,1,1,sticky fingers and sweaty scammers .
+1805,30,manufacturing,VBG,NN,0,0,0,0,as a small manufacturing company to the
+1807,26,A,NN,DT,0,0,0,0,Section 8 ( A ) minority business
+1808,4,Johnson-era,NN,NNP,0,1,1,1,"This is a Johnson-era , Great Society"
+1808,9,that,WDT,IN,0,0,0,0,Great Society creation that mandates certain government
+1812,20,made,VBN,VBD,0,0,0,0,"blighted area , made famous by Jimmy"
+1813,27,'80s,CD,NNS,0,0,0,0,through the Reagan '80s .
+1814,30,close,JJ,RB,0,0,0,0,officials and those close to public officials
+1814,36,up,IN,RB,0,0,0,0,"officials , right up to and including"
+1816,11,peddling,NN,VBG,0,0,0,0,"techniques of influence peddling , retaining politically"
+1821,12,out,IN,RP,0,0,0,0,you found yourself out in the cold
+1821,28,semiliterate,JJ,NN,0,1,1,1,the firm 's semiliterate `` minority ''
+1822,15,writing,NN,VBG,0,0,0,0,", easy-to-read tabloid writing style , ``"
+1822,19,Feeding,NNP,NN,0,1,0,0,"style , `` Feeding Frenzy '' often"
+1822,24,short,JJ,RB,0,0,0,0,'' often falls short of gripping reading
+1822,26,gripping,JJ,VBG,0,0,0,0,falls short of gripping reading .
+1823,11,crookery,NN,VB,0,0,0,0,: Auditors found crookery the first day
+1824,9,up,IN,RP,0,0,0,0,them to shut up .
+1825,5,garden-variety,NN,JJ,0,0,0,0,"scammers themselves were garden-variety low lifes ,"
+1825,16,Mercedes,NNPS,NNP,0,0,0,0,"big houses , Mercedes cars , beautiful"
+1829,27,A,NN,DT,0,0,0,0,Section 8 ( A ) federal program
+1829,33,auspices,NNS,VBZ,0,1,1,1,program under whose auspices the scandal took
+1830,5,come,VB,VBN,0,0,0,0,do at least come around to saying
+1830,6,around,RB,RP,0,0,0,0,at least come around to saying that
+1831,6,A,NN,DT,0,0,0,0,Section 8 ( A ) are a
+1831,24,by,RP,IN,0,0,0,0,when thieves walk by to scoop it
+1831,28,up,IN,RP,0,0,0,0,to scoop it up .
+1835,2,Feeding,NNP,NN,0,1,0,0,`` Feeding Frenzy '' does
+1836,17,best,JJS,RB,0,0,0,0,people who can best be described as
+1837,27,influencing,VBG,NN,0,1,1,1,"be made in influencing , brokering or"
+1838,7,East,NNP,JJ,0,0,0,0,version of the East bloc 's Nomenklatura
+1838,10,Nomenklatura,NN,NNP,0,1,1,1,East bloc 's Nomenklatura and they have
+1838,20,change,VB,NN,0,0,0,0,to see anything change .
+1841,6,chief,NN,JJ,0,0,0,0,was chairman and chief executive officer of
+1847,9,swift,NN,JJ,0,0,0,0,settlement and a swift transition to new
+1849,13,as,IN,RB,0,0,0,0,"most of it as subordinated debt ,"
+1852,13,presented,VBD,VBN,0,0,0,0,"Waertsilae Marine , presented claims for $"
+1854,36,working,JJ,VBG,0,0,0,0,debt and provide working capital .
+1855,23,secured,VBN,JJ,0,0,0,0,"completely discharge its secured debt , the"
+1856,11,chief,NN,JJ,0,0,0,0,"its president and chief executive , naming"
+1857,8,disappointed,VBN,JJ,0,0,0,0,was `` extremely disappointed in the continuing
+1858,13,headquarters,NNS,NN,0,0,0,0,"moved its corporate headquarters from Irvine ,"
+1862,10,fourth-quarter,NN,JJ,0,0,0,0,"% decline in fourth-quarter earnings , reflecting"
+1862,22,pet,NN,JJ,0,0,0,0,a more difficult pet food market .
+1863,30,earlier,JJR,RBR,0,0,0,0,", a year earlier ."
+1865,4,ended,VBD,VBN,0,0,0,0,"For the year ended Sept. 30 ,"
+1870,4,fourth-quarter,NN,JJ,0,0,0,0,Ralston attributed its fourth-quarter slump partly to
+1870,14,pet,NN,JJ,0,0,0,0,ingredients in the pet food business as
+1871,5,pet,NN,JJ,0,0,0,0,"the year , pet food volume was"
+1872,6,operating,VBG,NN,0,0,0,0,division realized higher operating profit on volume
+1875,1,Ralston,NNP,JJ,0,0,0,0,Ralston shares closed yesterday
+1876,3,below,IN,RB,0,0,0,0,Companies listed below reported quarterly profit
+1883,23,Midwest,NN,NNP,0,0,0,0,the recently harvested Midwest crop to ports
+1883,28,loading,VBG,NN,0,0,0,0,to ports for loading onto Soviet ships
+1884,13,earlier,JJR,RBR,0,0,0,0,from a year earlier .
+1890,10,short,JJ,NN,0,0,0,0,corn in that short of time period
+1891,7,real,RB,JJ,0,0,0,0,going to be real tight . ''
+1891,8,tight,JJ,RB,0,0,0,0,to be real tight . ''
+1892,9,Plains,NNS,NNPS,0,0,0,0,"in the northern Plains , the water"
+1894,15,earlier,JJR,RBR,0,0,0,0,about two weeks earlier than normal because
+1895,18,Midwest,NN,NNP,0,0,0,0,week in the Midwest might temporarily alleviate
+1899,1,So,IN,RB,0,0,0,0,"So far , the"
+1900,14,traded,VBN,VBD,0,0,0,0,corn futures contracts traded there to calculate
+1903,5,down,IN,RP,0,0,0,0,"the harvest winding down , however ,"
+1904,12,up,IN,RP,0,0,0,0,years to push up corn prices .
+1909,8,half,DT,NN,0,0,0,0,shrank by roughly half in the wake
+1913,5,Lakes,NNPS,NNP,0,0,0,0,in the Great Lakes and Atlantic Coast
+1915,15,buying,VBG,NN,0,0,0,0,on its record buying pace .
+1917,9,earlier,JJR,RBR,0,0,0,0,buying U.S. crops earlier in the fall
+1920,1,ENERGY,NN,NNP,0,0,0,0,ENERGY : Crude oil
+1920,3,Crude,JJ,NN,0,0,0,0,ENERGY : Crude oil futures prices
+1920,7,increased,VBD,VBN,0,0,0,0,oil futures prices increased in moderate trading
+1925,1,PRECIOUS,NNP,JJ,0,0,0,0,PRECIOUS METALS : Futures
+1925,2,METALS,NNPS,NNS,0,0,0,0,PRECIOUS METALS : Futures prices
+1925,4,Futures,NNP,NNS,0,0,0,0,PRECIOUS METALS : Futures prices eased as
+1925,7,as,RB,IN,0,0,0,0,Futures prices eased as increased stability and
+1928,4,down,IN,RB,0,0,0,0,January platinum was down $ 5.70 an
+1929,12,more,JJR,RBR,0,0,0,0,are being influenced more by stock market
+1929,37,Elders,NNPS,NNP,0,0,0,0,of research at Elders Futures in New
+1929,38,Futures,NNP,NNPS,0,0,0,0,research at Elders Futures in New York
+1931,11,more,JJR,RBR,0,0,0,0,", creating a more defensive attitude among"
+1935,1,COPPER,NNP,NN,0,0,0,0,COPPER : Futures prices
+1935,11,Chilean,JJ,NNP,0,0,0,0,'s declines because Chilean miners voted to
+1941,25,purchasing,VBG,NN,0,0,0,0,precedes the full purchasing agents ' report
+1941,32,out,IN,RP,0,0,0,0,that is due out today and gives
+1944,24,points,VBZ,NNS,0,0,0,0,above 50 % points to expansion .
+1946,11,midrange,JJ,NN,0,0,0,0,Tower line of midrange computers and introduced
+1946,15,advanced,VBN,JJ,0,0,0,0,computers and introduced advanced networking software to
+1946,16,networking,NN,JJ,0,0,0,0,and introduced advanced networking software to allow
+1948,9,third-quarter,NN,JJ,0,0,0,0,"% drop in third-quarter profit , as"
+1950,5,pretax,NN,JJ,0,0,0,0,recent quarter includes pretax gains of $
+1950,16,like,JJ,IN,0,0,0,0,"sales , while like gains in the"
+1954,3,third-quarter,NN,JJ,0,0,0,0,"However , third-quarter operating profit fell"
+1954,17,diversified,JJ,VBN,0,0,0,0,chunks of its diversified and steel segments
+1956,25,hurt,VBP,VBD,0,0,0,0,"automotive sales , hurt USX results ."
+1957,4,exports,NNS,VBZ,0,0,0,0,"Moreover , USX exports more than other"
+1958,29,50-50,CD,JJ,0,0,0,0,now is a 50-50 joint venture with
+1958,30,joint,NN,JJ,0,0,0,0,is a 50-50 joint venture with Japan
+1965,23,coated,VBN,JJ,0,0,0,0,"pipe and galvanized coated sheet , than"
+1970,14,back,RP,JJ,0,0,0,0,debt and buy back shares .
+1971,20,back,RP,RB,0,0,0,0,1988 and bought back about 15.5 million
+1972,3,about,IN,RB,0,0,0,0,USX has about $ 5.5 billion
+1973,25,threatened,VBN,VBD,0,0,0,0,13.1 % and threatened a takeover or
+1974,11,more,RBR,JJR,0,0,0,0,would be worth more if broken up
+1977,12,chief,NN,JJ,0,0,0,0,"vice president and chief financial officer ,"
+1978,8,chief,NN,JJ,0,0,0,0,vice president and chief financial officer of
+1979,2,A.,NNP,NN,0,0,0,0,"David A. DiLoreto , president"
+1979,37,A.,NNP,NN,0,0,0,0,", succeeding Delmont A. Davis , who"
+1980,3,constitutional-law,NN,JJ,0,1,1,1,Two leading constitutional-law experts said President
+1988,9,passed,VBN,VBD,0,0,0,0,first appropriations bill passed 200 years ago
+1988,12,ago,IN,RB,0,0,0,0,passed 200 years ago covered many different
+1989,30,lawmaking,JJ,NN,0,0,0,0,view that such lawmaking power is beyond

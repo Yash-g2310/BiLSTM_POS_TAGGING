@@ -1,0 +1,11 @@
+{
+  "accuracy": 0.9773896248399219,
+  "tokens": 47633,
+  "sentences": 1993,
+  "exact_sentence_accuracy": 0.60863020572002,
+  "surface_oov_accuracy": 0.8980263157894737,
+  "surface_oov_tokens": 1216,
+  "lookup_oov_accuracy": 0.881199538638985,
+  "lookup_oov_tokens": 867,
+  "token_loss": 0.7475558311279588
+}

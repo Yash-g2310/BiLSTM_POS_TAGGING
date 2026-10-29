@@ -1,0 +1,42 @@
+{
+  "profile": "full",
+  "stage": "all",
+  "variant_names": [
+    "word_only",
+    "word_plus_shape",
+    "word_char_cnn",
+    "full_char_cnn_bilstm",
+    "full_char_lstm_bilstm",
+    "case_sensitive_lookup",
+    "forward_only",
+    "full_char_cnn_crf",
+    "w80_c10_s10",
+    "paper_spec_80_20_192",
+    "w60_c30_s10",
+    "w40_c50_s10",
+    "hidden128",
+    "hidden384",
+    "one_lstm_layer",
+    "dropout_low",
+    "dropout_high",
+    "no_word_dropout",
+    "word_dropout_half",
+    "lr_1e3",
+    "lr_3e3",
+    "batch128",
+    "label_smoothing_01"
+  ],
+  "seed": 42,
+  "epochs_each": 18,
+  "max_sentences": null,
+  "val_fraction": 0.05,
+  "data_fingerprints": {
+    "train.tags": "2a941dd5c03e5ce0ef032947e3403d16813d9090223840ec4d4b7a966cc09488",
+    "dev.sents": "e524252cfbf9c5e1bd0c4f434be7232c49b606d5666fe2b1a18d3edce9f60e4d",
+    "dev.tags": "49b8118031d5f4380c402a1af6f7f0f222662c78bc432a29a0dcdba1b437de1f"
+  },
+  "torch": "2.11.0+cu128",
+  "numpy": "2.1.3",
+  "python": "3.10.22",
+  "device": "cuda"
+}

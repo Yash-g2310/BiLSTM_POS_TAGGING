@@ -1,0 +1,30 @@
+{
+  "best_variant": "label_smoothing_01",
+  "best_validation_accuracy_pct": 97.58468,
+  "selection_protocol": "highest accuracy on a deterministic sentence-level validation split drawn only from train.tags; dev.tags is not used for selection",
+  "cfg": {
+    "word_dim": 50,
+    "char_out": 40,
+    "shape_dim": 10,
+    "char_emb": 25,
+    "char_type": "cnn",
+    "max_chars": 24,
+    "hidden": 256,
+    "layers": 2,
+    "bidirectional": true,
+    "decoder": "softmax",
+    "case_sensitive_lookup": false,
+    "emb_drop": 0.35,
+    "lstm_drop": 0.25,
+    "out_drop": 0.35,
+    "wdrop_alpha": 1.0,
+    "lr": 0.002,
+    "wd": 1e-05,
+    "bs": 96,
+    "epochs": 16,
+    "patience": 4,
+    "min_delta": 3e-05,
+    "clip": 5.0,
+    "label_smooth": 0.1
+  }
+}
